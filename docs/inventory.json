@@ -1,0 +1,4288 @@
+{
+  "summary": {
+    "total_files": 159,
+    "images": 145,
+    "unreadable": [],
+    "exact_duplicate_groups": [
+      [
+        "assets/portfolio/rock-relief-details/photo_6_2026-11-09_19-39-27.jpg",
+        "assets/source/duplicates/photo_10_2026-11-09_19-39-27.jpg"
+      ],
+      [
+        "assets/processed/thumbs/p19-relief-gold-vein-detail.jpg",
+        "assets/processed/thumbs/p23-relief-gold-vein-detail-dup.jpg"
+      ],
+      [
+        "assets/processed/web/p19-relief-gold-vein-detail.jpg",
+        "assets/processed/web/p23-relief-gold-vein-detail-dup.jpg"
+      ]
+    ],
+    "near_duplicate_pairs": [
+      {
+        "a": "assets/concepts/planters/камень кашпо.jpg",
+        "b": "assets/processed/thumbs/p26-planter-concept-dimensions.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          1280,
+          822
+        ],
+        "dims_b": [
+          480,
+          308
+        ]
+      },
+      {
+        "a": "assets/concepts/planters/камень кашпо.jpg",
+        "b": "assets/processed/web/p26-planter-concept-dimensions.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          1280,
+          822
+        ],
+        "dims_b": [
+          1280,
+          822
+        ]
+      },
+      {
+        "a": "assets/portfolio/decorative-surfaces/photo_2025_10_10_17_29_44_topaz_remove_denoise_sharpen_lighting.jpg",
+        "b": "assets/processed/thumbs/p27-dark-counter-showroom-angle.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          1280,
+          853
+        ],
+        "dims_b": [
+          480,
+          320
+        ]
+      },
+      {
+        "a": "assets/portfolio/decorative-surfaces/photo_2025_10_10_17_29_44_topaz_remove_denoise_sharpen_lighting.jpg",
+        "b": "assets/processed/web/p27-dark-counter-showroom-angle.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          1280,
+          853
+        ],
+        "dims_b": [
+          1280,
+          853
+        ]
+      },
+      {
+        "a": "assets/portfolio/decorative-surfaces/photo_2025_10_10_17_29_54_topaz_remove_denoise_sharpen_lighting.jpg",
+        "b": "assets/processed/thumbs/p28-dark-counter-showroom-front.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          1280,
+          853
+        ],
+        "dims_b": [
+          480,
+          320
+        ]
+      },
+      {
+        "a": "assets/portfolio/decorative-surfaces/photo_2025_10_10_17_29_54_topaz_remove_denoise_sharpen_lighting.jpg",
+        "b": "assets/processed/web/p28-dark-counter-showroom-front.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          1280,
+          853
+        ],
+        "dims_b": [
+          1280,
+          853
+        ]
+      },
+      {
+        "a": "assets/portfolio/rock-objects/photo_2_2026-11-09_19-39-27.jpg",
+        "b": "assets/processed/web/p24-rock-props-park-ride.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          963,
+          1280
+        ],
+        "dims_b": [
+          963,
+          1280
+        ]
+      },
+      {
+        "a": "assets/portfolio/rock-relief-details/photo_5_2026-11-09_19-39-27.jpg",
+        "b": "assets/processed/thumbs/p18-relief-gold-veins-sakura.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          360,
+          480
+        ]
+      },
+      {
+        "a": "assets/portfolio/rock-relief-details/photo_5_2026-11-09_19-39-27.jpg",
+        "b": "assets/processed/web/p18-relief-gold-veins-sakura.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/portfolio/rock-relief-details/photo_6_2026-11-09_19-39-27.jpg",
+        "b": "assets/processed/thumbs/p19-relief-gold-vein-detail.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          360,
+          480
+        ]
+      },
+      {
+        "a": "assets/portfolio/rock-relief-details/photo_6_2026-11-09_19-39-27.jpg",
+        "b": "assets/processed/thumbs/p23-relief-gold-vein-detail-dup.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          360,
+          480
+        ]
+      },
+      {
+        "a": "assets/portfolio/rock-relief-details/photo_6_2026-11-09_19-39-27.jpg",
+        "b": "assets/processed/web/p19-relief-gold-vein-detail.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/portfolio/rock-relief-details/photo_6_2026-11-09_19-39-27.jpg",
+        "b": "assets/processed/web/p23-relief-gold-vein-detail-dup.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/portfolio/rock-relief-details/photo_6_2026-11-09_19-39-27.jpg",
+        "b": "assets/source/duplicates/photo_10_2026-11-09_19-39-27.jpg",
+        "dhash_distance": 0,
+        "same_bytes": true,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/portfolio/rock-relief-details/photo_7_2026-11-09_19-39-27.jpg",
+        "b": "assets/processed/thumbs/p20-relief-gold-veins-wide.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          360,
+          480
+        ]
+      },
+      {
+        "a": "assets/portfolio/rock-relief-details/photo_7_2026-11-09_19-39-27.jpg",
+        "b": "assets/processed/web/p20-relief-gold-veins-wide.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/portfolio/rock-relief-details/photo_8_2026-11-09_19-39-27.jpg",
+        "b": "assets/processed/thumbs/p21-relief-gold-gravel-vein.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          360,
+          480
+        ]
+      },
+      {
+        "a": "assets/portfolio/rock-relief-details/photo_8_2026-11-09_19-39-27.jpg",
+        "b": "assets/processed/web/p21-relief-gold-gravel-vein.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/portfolio/rock-relief-details/photo_9_2026-11-09_19-39-27.jpg",
+        "b": "assets/processed/thumbs/p22-relief-gold-veins-vertical.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          360,
+          480
+        ]
+      },
+      {
+        "a": "assets/portfolio/rock-relief-details/photo_9_2026-11-09_19-39-27.jpg",
+        "b": "assets/processed/web/p22-relief-gold-veins-vertical.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/portfolio/rock-surfaces/WhatsApp Image 2025-08-26 at 15.39.00.jpeg",
+        "b": "assets/processed/thumbs/p11-bar-rock-end-wide.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          360,
+          480
+        ]
+      },
+      {
+        "a": "assets/portfolio/rock-surfaces/WhatsApp Image 2025-08-26 at 15.39.00.jpeg",
+        "b": "assets/processed/web/p11-bar-rock-end-wide.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/portfolio/rock-surfaces/WhatsApp Image 2025-09-03 at 01.07.29.jpeg",
+        "b": "assets/processed/web/p12-facade-stone-plaque.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          1599,
+          1200
+        ],
+        "dims_b": [
+          1599,
+          1200
+        ]
+      },
+      {
+        "a": "assets/portfolio/rock-surfaces/WhatsApp Image 2025-09-03 at 01.07.30.jpeg",
+        "b": "assets/processed/thumbs/p13-facade-stone-base-ornaments.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          1599,
+          1200
+        ],
+        "dims_b": [
+          480,
+          360
+        ]
+      },
+      {
+        "a": "assets/portfolio/rock-surfaces/WhatsApp Image 2025-09-03 at 01.07.30.jpeg",
+        "b": "assets/processed/web/p13-facade-stone-base-ornaments.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          1599,
+          1200
+        ],
+        "dims_b": [
+          1599,
+          1200
+        ]
+      },
+      {
+        "a": "assets/portfolio/rock-surfaces/photo_1_2026-11-09_19-39-27.jpg",
+        "b": "assets/processed/thumbs/p17-stone-block-wall-wood-frame.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          1280,
+          960
+        ],
+        "dims_b": [
+          480,
+          360
+        ]
+      },
+      {
+        "a": "assets/portfolio/rock-surfaces/photo_1_2026-11-09_19-39-27.jpg",
+        "b": "assets/processed/web/p17-stone-block-wall-wood-frame.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          1280,
+          960
+        ],
+        "dims_b": [
+          1280,
+          960
+        ]
+      },
+      {
+        "a": "assets/portfolio/rock-surfaces/скала стена1.jpg",
+        "b": "assets/processed/thumbs/p15-rock-wall-panel-workshop.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          720,
+          1280
+        ],
+        "dims_b": [
+          270,
+          480
+        ]
+      },
+      {
+        "a": "assets/portfolio/rock-surfaces/скала стена1.jpg",
+        "b": "assets/processed/web/p15-rock-wall-panel-workshop.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          720,
+          1280
+        ],
+        "dims_b": [
+          720,
+          1280
+        ]
+      },
+      {
+        "a": "assets/portfolio/rock-surfaces/скала стона2.jpg",
+        "b": "assets/processed/thumbs/p16-rock-texture-closeup.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          720,
+          1280
+        ],
+        "dims_b": [
+          270,
+          480
+        ]
+      },
+      {
+        "a": "assets/portfolio/rock-surfaces/скала стона2.jpg",
+        "b": "assets/processed/web/p16-rock-texture-closeup.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          720,
+          1280
+        ],
+        "dims_b": [
+          720,
+          1280
+        ]
+      },
+      {
+        "a": "assets/portfolio/themed-sculptures/WhatsApp Image 2025-09-05 at 19.11.14.jpeg",
+        "b": "assets/processed/web/p42-giant-head-sculpture-rocks.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/portfolio/themed-sculptures/photo_2022-11-29_15-21-10.jpg",
+        "b": "assets/processed/thumbs/p30-red-mouths-installed-park.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          1280,
+          960
+        ],
+        "dims_b": [
+          480,
+          360
+        ]
+      },
+      {
+        "a": "assets/portfolio/themed-sculptures/photo_2022-11-29_15-21-10.jpg",
+        "b": "assets/processed/web/p30-red-mouths-installed-park.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          1280,
+          960
+        ],
+        "dims_b": [
+          1280,
+          960
+        ]
+      },
+      {
+        "a": "assets/portfolio/themed-sculptures/photo_2024-09-04_19-03-42.jpg",
+        "b": "assets/processed/thumbs/p31-green-dragon-park.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          360,
+          480
+        ]
+      },
+      {
+        "a": "assets/portfolio/themed-sculptures/photo_2024-09-04_19-03-42.jpg",
+        "b": "assets/processed/web/p31-green-dragon-park.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/portfolio/themed-sculptures/photo_2024-09-04_19-36-36.jpg",
+        "b": "assets/processed/thumbs/p32-white-cat-sculpture-primed.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          360,
+          480
+        ]
+      },
+      {
+        "a": "assets/portfolio/themed-sculptures/photo_2024-09-04_19-36-36.jpg",
+        "b": "assets/processed/web/p32-white-cat-sculpture-primed.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/portfolio/themed-sculptures/photo_2024-09-05_12-20-27.jpg",
+        "b": "assets/processed/thumbs/p33-snowman-painted-workshop.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          360,
+          480
+        ]
+      },
+      {
+        "a": "assets/portfolio/themed-sculptures/photo_2024-09-05_12-20-27.jpg",
+        "b": "assets/processed/web/p33-snowman-painted-workshop.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/portfolio/themed-sculptures/photo_2024-09-27_08-24-07.jpg",
+        "b": "assets/processed/thumbs/p34-red-mouths-primed.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          360,
+          480
+        ]
+      },
+      {
+        "a": "assets/portfolio/themed-sculptures/photo_2024-09-27_08-24-07.jpg",
+        "b": "assets/processed/web/p34-red-mouths-primed.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/portfolio/themed-sculptures/photo_2024-10-03_18-03-25.jpg",
+        "b": "assets/processed/thumbs/p35-red-mouths-painting.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          720,
+          1280
+        ],
+        "dims_b": [
+          270,
+          480
+        ]
+      },
+      {
+        "a": "assets/portfolio/themed-sculptures/photo_2024-10-03_18-03-25.jpg",
+        "b": "assets/processed/web/p35-red-mouths-painting.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          720,
+          1280
+        ],
+        "dims_b": [
+          720,
+          1280
+        ]
+      },
+      {
+        "a": "assets/portfolio/themed-sculptures/photo_2024-10-17_10-32-50.jpg",
+        "b": "assets/processed/thumbs/p36-red-mouths-painted.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          360,
+          480
+        ]
+      },
+      {
+        "a": "assets/portfolio/themed-sculptures/photo_2024-10-17_10-32-50.jpg",
+        "b": "assets/processed/web/p36-red-mouths-painted.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/portfolio/themed-sculptures/photo_2025-04-12_21-26-30.jpg",
+        "b": "assets/processed/thumbs/p37-red-mouths-finished-yard.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          360,
+          480
+        ]
+      },
+      {
+        "a": "assets/portfolio/themed-sculptures/photo_2025-04-12_21-26-30.jpg",
+        "b": "assets/processed/web/p37-red-mouths-finished-yard.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/portfolio/themed-sculptures/photo_2025-04-12_21-40-48.jpg",
+        "b": "assets/processed/thumbs/p38-mushroom-troll-painted.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          1280,
+          960
+        ],
+        "dims_b": [
+          480,
+          360
+        ]
+      },
+      {
+        "a": "assets/portfolio/themed-sculptures/photo_2025-04-12_21-40-48.jpg",
+        "b": "assets/processed/web/p38-mushroom-troll-painted.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          1280,
+          960
+        ],
+        "dims_b": [
+          1280,
+          960
+        ]
+      },
+      {
+        "a": "assets/portfolio/themed-sculptures/photo_2025-04-12_22-32-05.jpg",
+        "b": "assets/processed/thumbs/p39-snowman-primed-selfie.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          360,
+          480
+        ]
+      },
+      {
+        "a": "assets/portfolio/themed-sculptures/photo_2025-04-12_22-32-05.jpg",
+        "b": "assets/processed/web/p39-snowman-primed-selfie.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/portfolio/themed-sculptures/photo_2025-04-12_22-32-41.jpg",
+        "b": "assets/processed/thumbs/p40-snowman-primed-selfie-2.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          360,
+          480
+        ]
+      },
+      {
+        "a": "assets/portfolio/themed-sculptures/photo_2025-04-12_22-32-41.jpg",
+        "b": "assets/processed/web/p40-snowman-primed-selfie-2.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/portfolio/themed-sculptures/photo_2025-04-12_22-33-56.jpg",
+        "b": "assets/processed/thumbs/p41-dragon-head-primed.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          360,
+          480
+        ]
+      },
+      {
+        "a": "assets/portfolio/themed-sculptures/photo_2025-04-12_22-33-56.jpg",
+        "b": "assets/processed/web/p41-dragon-head-primed.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/process/planter-rock-prototype/Камень кашпо2.jpeg",
+        "b": "assets/processed/thumbs/p25-planter-prototype.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          360,
+          480
+        ]
+      },
+      {
+        "a": "assets/process/planter-rock-prototype/Камень кашпо2.jpeg",
+        "b": "assets/processed/web/p25-planter-prototype.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p01-bar-counter-interior.jpg",
+        "b": "assets/processed/web/p01-bar-counter-interior.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          480,
+          360
+        ],
+        "dims_b": [
+          1600,
+          1200
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p01-bar-counter-interior.jpg",
+        "b": "assets/source/heic-to-review/IMG_1527-topaz-sharpen-denoise-lighting-color.HEIC",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          480,
+          360
+        ],
+        "dims_b": [
+          4032,
+          3024
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p02-bar-counter-side.jpg",
+        "b": "assets/processed/web/p02-bar-counter-side.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          480,
+          360
+        ],
+        "dims_b": [
+          1600,
+          1200
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p02-bar-counter-side.jpg",
+        "b": "assets/source/heic-to-review/IMG_1528-topaz-denoise-sharpen-lighting-color.HEIC",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          480,
+          360
+        ],
+        "dims_b": [
+          4032,
+          3024
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p03-bar-top-patina-detail.jpg",
+        "b": "assets/processed/web/p03-bar-top-patina-detail.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          480,
+          360
+        ],
+        "dims_b": [
+          1600,
+          1200
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p03-bar-top-patina-detail.jpg",
+        "b": "assets/source/heic-to-review/IMG_1529-topaz-denoise-sharpen-lighting-color.HEIC",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          480,
+          360
+        ],
+        "dims_b": [
+          4032,
+          3024
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p04-bar-top-grill.jpg",
+        "b": "assets/processed/web/p04-bar-top-grill.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          480,
+          360
+        ],
+        "dims_b": [
+          1600,
+          1200
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p04-bar-top-grill.jpg",
+        "b": "assets/source/heic-to-review/IMG_1530-topaz-denoise-sharpen-lighting-color.HEIC",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          480,
+          360
+        ],
+        "dims_b": [
+          4032,
+          3024
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p05-bar-end-panel-texture.jpg",
+        "b": "assets/processed/web/p05-bar-end-panel-texture.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          480,
+          360
+        ],
+        "dims_b": [
+          1600,
+          1200
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p06-bar-counter-full-view.jpg",
+        "b": "assets/processed/web/p06-bar-counter-full-view.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          480,
+          360
+        ],
+        "dims_b": [
+          1600,
+          1200
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p06-bar-counter-full-view.jpg",
+        "b": "assets/source/heic-to-review/IMG_1532-topaz-denoise-sharpen-lighting-color.HEIC",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          480,
+          360
+        ],
+        "dims_b": [
+          4032,
+          3024
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p07-bar-top-perspective.jpg",
+        "b": "assets/processed/web/p07-bar-top-perspective.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          480,
+          360
+        ],
+        "dims_b": [
+          1600,
+          1200
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p07-bar-top-perspective.jpg",
+        "b": "assets/source/heic-to-review/IMG_1533-topaz-denoise-sharpen-lighting-color.HEIC",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          480,
+          360
+        ],
+        "dims_b": [
+          4032,
+          3024
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p08-patina-texture-closeup.jpg",
+        "b": "assets/source/heic-to-review/IMG_1534-topaz-denoise-sharpen-lighting-color.HEIC",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          480,
+          360
+        ],
+        "dims_b": [
+          4032,
+          3024
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p10-rock-wall-interior-lights.jpg",
+        "b": "assets/processed/web/p10-rock-wall-interior-lights.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          480,
+          360
+        ],
+        "dims_b": [
+          1600,
+          1200
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p10-rock-wall-interior-lights.jpg",
+        "b": "assets/source/heic-to-review/IMG_1539-topaz-denoise-sharpen-lighting-color.HEIC",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          480,
+          360
+        ],
+        "dims_b": [
+          4032,
+          3024
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p11-bar-rock-end-wide.jpg",
+        "b": "assets/processed/web/p11-bar-rock-end-wide.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          360,
+          480
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p13-facade-stone-base-ornaments.jpg",
+        "b": "assets/processed/web/p13-facade-stone-base-ornaments.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          480,
+          360
+        ],
+        "dims_b": [
+          1599,
+          1200
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p14-facade-stone-corner.jpg",
+        "b": "assets/processed/web/p14-facade-stone-corner.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          480,
+          360
+        ],
+        "dims_b": [
+          1599,
+          1200
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p15-rock-wall-panel-workshop.jpg",
+        "b": "assets/processed/web/p15-rock-wall-panel-workshop.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          270,
+          480
+        ],
+        "dims_b": [
+          720,
+          1280
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p16-rock-texture-closeup.jpg",
+        "b": "assets/processed/web/p16-rock-texture-closeup.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          270,
+          480
+        ],
+        "dims_b": [
+          720,
+          1280
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p17-stone-block-wall-wood-frame.jpg",
+        "b": "assets/processed/web/p17-stone-block-wall-wood-frame.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          480,
+          360
+        ],
+        "dims_b": [
+          1280,
+          960
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p18-relief-gold-veins-sakura.jpg",
+        "b": "assets/processed/web/p18-relief-gold-veins-sakura.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          360,
+          480
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p19-relief-gold-vein-detail.jpg",
+        "b": "assets/processed/thumbs/p23-relief-gold-vein-detail-dup.jpg",
+        "dhash_distance": 0,
+        "same_bytes": true,
+        "dims_a": [
+          360,
+          480
+        ],
+        "dims_b": [
+          360,
+          480
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p19-relief-gold-vein-detail.jpg",
+        "b": "assets/processed/web/p19-relief-gold-vein-detail.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          360,
+          480
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p19-relief-gold-vein-detail.jpg",
+        "b": "assets/processed/web/p23-relief-gold-vein-detail-dup.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          360,
+          480
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p19-relief-gold-vein-detail.jpg",
+        "b": "assets/source/duplicates/photo_10_2026-11-09_19-39-27.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          360,
+          480
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p20-relief-gold-veins-wide.jpg",
+        "b": "assets/processed/web/p20-relief-gold-veins-wide.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          360,
+          480
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p21-relief-gold-gravel-vein.jpg",
+        "b": "assets/processed/web/p21-relief-gold-gravel-vein.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          360,
+          480
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p22-relief-gold-veins-vertical.jpg",
+        "b": "assets/processed/web/p22-relief-gold-veins-vertical.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          360,
+          480
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p23-relief-gold-vein-detail-dup.jpg",
+        "b": "assets/processed/web/p19-relief-gold-vein-detail.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          360,
+          480
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p23-relief-gold-vein-detail-dup.jpg",
+        "b": "assets/processed/web/p23-relief-gold-vein-detail-dup.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          360,
+          480
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p23-relief-gold-vein-detail-dup.jpg",
+        "b": "assets/source/duplicates/photo_10_2026-11-09_19-39-27.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          360,
+          480
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p25-planter-prototype.jpg",
+        "b": "assets/processed/web/p25-planter-prototype.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          360,
+          480
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p26-planter-concept-dimensions.jpg",
+        "b": "assets/processed/web/p26-planter-concept-dimensions.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          480,
+          308
+        ],
+        "dims_b": [
+          1280,
+          822
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p27-dark-counter-showroom-angle.jpg",
+        "b": "assets/processed/web/p27-dark-counter-showroom-angle.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          480,
+          320
+        ],
+        "dims_b": [
+          1280,
+          853
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p28-dark-counter-showroom-front.jpg",
+        "b": "assets/processed/web/p28-dark-counter-showroom-front.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          480,
+          320
+        ],
+        "dims_b": [
+          1280,
+          853
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p29-textured-art-panel-room.jpg",
+        "b": "assets/processed/web/p29-textured-art-panel-room.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          384,
+          480
+        ],
+        "dims_b": [
+          1281,
+          1600
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p29-textured-art-panel-room.jpg",
+        "b": "assets/source/unreviewed/photo_2025_10_11_19_14_02_topaz_denoise_sharpen_lighting_color_upscale.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          384,
+          480
+        ],
+        "dims_b": [
+          3104,
+          3876
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p30-red-mouths-installed-park.jpg",
+        "b": "assets/processed/web/p30-red-mouths-installed-park.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          480,
+          360
+        ],
+        "dims_b": [
+          1280,
+          960
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p31-green-dragon-park.jpg",
+        "b": "assets/processed/web/p31-green-dragon-park.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          360,
+          480
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p32-white-cat-sculpture-primed.jpg",
+        "b": "assets/processed/web/p32-white-cat-sculpture-primed.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          360,
+          480
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p33-snowman-painted-workshop.jpg",
+        "b": "assets/processed/web/p33-snowman-painted-workshop.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          360,
+          480
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p34-red-mouths-primed.jpg",
+        "b": "assets/processed/web/p34-red-mouths-primed.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          360,
+          480
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p35-red-mouths-painting.jpg",
+        "b": "assets/processed/web/p35-red-mouths-painting.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          270,
+          480
+        ],
+        "dims_b": [
+          720,
+          1280
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p36-red-mouths-painted.jpg",
+        "b": "assets/processed/web/p36-red-mouths-painted.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          360,
+          480
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p37-red-mouths-finished-yard.jpg",
+        "b": "assets/processed/web/p37-red-mouths-finished-yard.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          360,
+          480
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p38-mushroom-troll-painted.jpg",
+        "b": "assets/processed/web/p38-mushroom-troll-painted.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          480,
+          360
+        ],
+        "dims_b": [
+          1280,
+          960
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p39-snowman-primed-selfie.jpg",
+        "b": "assets/processed/web/p39-snowman-primed-selfie.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          360,
+          480
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p40-snowman-primed-selfie-2.jpg",
+        "b": "assets/processed/web/p40-snowman-primed-selfie-2.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          360,
+          480
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p41-dragon-head-primed.jpg",
+        "b": "assets/processed/web/p41-dragon-head-primed.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          360,
+          480
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p43-hammer-prop-wall.jpg",
+        "b": "assets/processed/web/p43-hammer-prop-wall.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          270,
+          480
+        ],
+        "dims_b": [
+          720,
+          1280
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p43-hammer-prop-wall.jpg",
+        "b": "assets/source/unclassified/photo_3_2026-11-09_19-39-27.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          270,
+          480
+        ],
+        "dims_b": [
+          720,
+          1280
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p44-hammer-axe-props.jpg",
+        "b": "assets/processed/web/p44-hammer-axe-props.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          270,
+          480
+        ],
+        "dims_b": [
+          720,
+          1280
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p44-hammer-axe-props.jpg",
+        "b": "assets/source/unclassified/photo_4_2026-11-09_19-39-27.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          270,
+          480
+        ],
+        "dims_b": [
+          720,
+          1280
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p45-cracked-sphere-pedestal.jpg",
+        "b": "assets/processed/web/p45-cracked-sphere-pedestal.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          420,
+          480
+        ],
+        "dims_b": [
+          855,
+          976
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p45-cracked-sphere-pedestal.jpg",
+        "b": "assets/source/unclassified/photo_11_2026-11-09_19-39-27.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          420,
+          480
+        ],
+        "dims_b": [
+          855,
+          976
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p46-glowing-monolith-reference.jpg",
+        "b": "assets/processed/web/p46-glowing-monolith-reference.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          320,
+          480
+        ],
+        "dims_b": [
+          400,
+          600
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p46-glowing-monolith-reference.jpg",
+        "b": "assets/source/unclassified/photo_12_2026-11-09_19-39-27.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          320,
+          480
+        ],
+        "dims_b": [
+          400,
+          600
+        ]
+      },
+      {
+        "a": "assets/processed/web/p01-bar-counter-interior.jpg",
+        "b": "assets/source/heic-to-review/IMG_1527-topaz-sharpen-denoise-lighting-color.HEIC",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          1600,
+          1200
+        ],
+        "dims_b": [
+          4032,
+          3024
+        ]
+      },
+      {
+        "a": "assets/processed/web/p02-bar-counter-side.jpg",
+        "b": "assets/source/heic-to-review/IMG_1528-topaz-denoise-sharpen-lighting-color.HEIC",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          1600,
+          1200
+        ],
+        "dims_b": [
+          4032,
+          3024
+        ]
+      },
+      {
+        "a": "assets/processed/web/p03-bar-top-patina-detail.jpg",
+        "b": "assets/source/heic-to-review/IMG_1529-topaz-denoise-sharpen-lighting-color.HEIC",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          1600,
+          1200
+        ],
+        "dims_b": [
+          4032,
+          3024
+        ]
+      },
+      {
+        "a": "assets/processed/web/p04-bar-top-grill.jpg",
+        "b": "assets/source/heic-to-review/IMG_1530-topaz-denoise-sharpen-lighting-color.HEIC",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          1600,
+          1200
+        ],
+        "dims_b": [
+          4032,
+          3024
+        ]
+      },
+      {
+        "a": "assets/processed/web/p06-bar-counter-full-view.jpg",
+        "b": "assets/source/heic-to-review/IMG_1532-topaz-denoise-sharpen-lighting-color.HEIC",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          1600,
+          1200
+        ],
+        "dims_b": [
+          4032,
+          3024
+        ]
+      },
+      {
+        "a": "assets/processed/web/p07-bar-top-perspective.jpg",
+        "b": "assets/source/heic-to-review/IMG_1533-topaz-denoise-sharpen-lighting-color.HEIC",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          1600,
+          1200
+        ],
+        "dims_b": [
+          4032,
+          3024
+        ]
+      },
+      {
+        "a": "assets/processed/web/p10-rock-wall-interior-lights.jpg",
+        "b": "assets/source/heic-to-review/IMG_1539-topaz-denoise-sharpen-lighting-color.HEIC",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          1600,
+          1200
+        ],
+        "dims_b": [
+          4032,
+          3024
+        ]
+      },
+      {
+        "a": "assets/processed/web/p19-relief-gold-vein-detail.jpg",
+        "b": "assets/processed/web/p23-relief-gold-vein-detail-dup.jpg",
+        "dhash_distance": 0,
+        "same_bytes": true,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/processed/web/p19-relief-gold-vein-detail.jpg",
+        "b": "assets/source/duplicates/photo_10_2026-11-09_19-39-27.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/processed/web/p23-relief-gold-vein-detail-dup.jpg",
+        "b": "assets/source/duplicates/photo_10_2026-11-09_19-39-27.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/processed/web/p29-textured-art-panel-room.jpg",
+        "b": "assets/source/unreviewed/photo_2025_10_11_19_14_02_topaz_denoise_sharpen_lighting_color_upscale.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          1281,
+          1600
+        ],
+        "dims_b": [
+          3104,
+          3876
+        ]
+      },
+      {
+        "a": "assets/processed/web/p43-hammer-prop-wall.jpg",
+        "b": "assets/source/unclassified/photo_3_2026-11-09_19-39-27.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          720,
+          1280
+        ],
+        "dims_b": [
+          720,
+          1280
+        ]
+      },
+      {
+        "a": "assets/processed/web/p44-hammer-axe-props.jpg",
+        "b": "assets/source/unclassified/photo_4_2026-11-09_19-39-27.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          720,
+          1280
+        ],
+        "dims_b": [
+          720,
+          1280
+        ]
+      },
+      {
+        "a": "assets/processed/web/p45-cracked-sphere-pedestal.jpg",
+        "b": "assets/source/unclassified/photo_11_2026-11-09_19-39-27.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          855,
+          976
+        ],
+        "dims_b": [
+          855,
+          976
+        ]
+      },
+      {
+        "a": "assets/processed/web/p46-glowing-monolith-reference.jpg",
+        "b": "assets/source/unclassified/photo_12_2026-11-09_19-39-27.jpg",
+        "dhash_distance": 0,
+        "same_bytes": false,
+        "dims_a": [
+          400,
+          600
+        ],
+        "dims_b": [
+          400,
+          600
+        ]
+      },
+      {
+        "a": "assets/portfolio/rock-objects/photo_2_2026-11-09_19-39-27.jpg",
+        "b": "assets/processed/thumbs/p24-rock-props-park-ride.jpg",
+        "dhash_distance": 1,
+        "same_bytes": false,
+        "dims_a": [
+          963,
+          1280
+        ],
+        "dims_b": [
+          361,
+          480
+        ]
+      },
+      {
+        "a": "assets/portfolio/rock-surfaces/WhatsApp Image 2025-09-03 at 01.07.29.jpeg",
+        "b": "assets/processed/thumbs/p12-facade-stone-plaque.jpg",
+        "dhash_distance": 1,
+        "same_bytes": false,
+        "dims_a": [
+          1599,
+          1200
+        ],
+        "dims_b": [
+          480,
+          360
+        ]
+      },
+      {
+        "a": "assets/portfolio/rock-surfaces/мой камень.jpeg",
+        "b": "assets/processed/thumbs/p14-facade-stone-corner.jpg",
+        "dhash_distance": 1,
+        "same_bytes": false,
+        "dims_a": [
+          1599,
+          1200
+        ],
+        "dims_b": [
+          480,
+          360
+        ]
+      },
+      {
+        "a": "assets/portfolio/rock-surfaces/мой камень.jpeg",
+        "b": "assets/processed/web/p14-facade-stone-corner.jpg",
+        "dhash_distance": 1,
+        "same_bytes": false,
+        "dims_a": [
+          1599,
+          1200
+        ],
+        "dims_b": [
+          1599,
+          1200
+        ]
+      },
+      {
+        "a": "assets/portfolio/themed-sculptures/WhatsApp Image 2025-09-05 at 19.11.14.jpeg",
+        "b": "assets/processed/thumbs/p42-giant-head-sculpture-rocks.jpg",
+        "dhash_distance": 1,
+        "same_bytes": false,
+        "dims_a": [
+          960,
+          1280
+        ],
+        "dims_b": [
+          360,
+          480
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p05-bar-end-panel-texture.jpg",
+        "b": "assets/source/heic-to-review/IMG_1531-topaz-denoise-sharpen-lighting-color.HEIC",
+        "dhash_distance": 1,
+        "same_bytes": false,
+        "dims_a": [
+          480,
+          360
+        ],
+        "dims_b": [
+          4032,
+          3024
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p08-patina-texture-closeup.jpg",
+        "b": "assets/processed/web/p08-patina-texture-closeup.jpg",
+        "dhash_distance": 1,
+        "same_bytes": false,
+        "dims_a": [
+          480,
+          360
+        ],
+        "dims_b": [
+          1600,
+          1200
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p09-patina-texture-closeup-2.jpg",
+        "b": "assets/source/heic-to-review/IMG_1537-topaz-denoise-sharpen-lighting-color.HEIC",
+        "dhash_distance": 1,
+        "same_bytes": false,
+        "dims_a": [
+          480,
+          360
+        ],
+        "dims_b": [
+          4032,
+          3024
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p12-facade-stone-plaque.jpg",
+        "b": "assets/processed/web/p12-facade-stone-plaque.jpg",
+        "dhash_distance": 1,
+        "same_bytes": false,
+        "dims_a": [
+          480,
+          360
+        ],
+        "dims_b": [
+          1599,
+          1200
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p24-rock-props-park-ride.jpg",
+        "b": "assets/processed/web/p24-rock-props-park-ride.jpg",
+        "dhash_distance": 1,
+        "same_bytes": false,
+        "dims_a": [
+          361,
+          480
+        ],
+        "dims_b": [
+          963,
+          1280
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p42-giant-head-sculpture-rocks.jpg",
+        "b": "assets/processed/web/p42-giant-head-sculpture-rocks.jpg",
+        "dhash_distance": 1,
+        "same_bytes": false,
+        "dims_a": [
+          360,
+          480
+        ],
+        "dims_b": [
+          960,
+          1280
+        ]
+      },
+      {
+        "a": "assets/processed/web/p05-bar-end-panel-texture.jpg",
+        "b": "assets/source/heic-to-review/IMG_1531-topaz-denoise-sharpen-lighting-color.HEIC",
+        "dhash_distance": 1,
+        "same_bytes": false,
+        "dims_a": [
+          1600,
+          1200
+        ],
+        "dims_b": [
+          4032,
+          3024
+        ]
+      },
+      {
+        "a": "assets/processed/web/p08-patina-texture-closeup.jpg",
+        "b": "assets/source/heic-to-review/IMG_1534-topaz-denoise-sharpen-lighting-color.HEIC",
+        "dhash_distance": 1,
+        "same_bytes": false,
+        "dims_a": [
+          1600,
+          1200
+        ],
+        "dims_b": [
+          4032,
+          3024
+        ]
+      },
+      {
+        "a": "assets/processed/web/p09-patina-texture-closeup-2.jpg",
+        "b": "assets/source/heic-to-review/IMG_1537-topaz-denoise-sharpen-lighting-color.HEIC",
+        "dhash_distance": 1,
+        "same_bytes": false,
+        "dims_a": [
+          1600,
+          1200
+        ],
+        "dims_b": [
+          4032,
+          3024
+        ]
+      },
+      {
+        "a": "assets/processed/thumbs/p09-patina-texture-closeup-2.jpg",
+        "b": "assets/processed/web/p09-patina-texture-closeup-2.jpg",
+        "dhash_distance": 2,
+        "same_bytes": false,
+        "dims_a": [
+          480,
+          360
+        ],
+        "dims_b": [
+          1600,
+          1200
+        ]
+      },
+      {
+        "a": "assets/processed/contact-sheets/sheet-03-rock-relief-gold.jpg",
+        "b": "assets/processed/contact-sheets/sheet-06-themed-sculptures-2.jpg",
+        "dhash_distance": 7,
+        "same_bytes": false,
+        "dims_a": [
+          3200,
+          1614
+        ],
+        "dims_b": [
+          3200,
+          1614
+        ]
+      },
+      {
+        "a": "assets/processed/contact-sheets/sheet-03-rock-relief-gold.jpg",
+        "b": "assets/processed/contact-sheets/sheet-05-themed-sculptures-1.jpg",
+        "dhash_distance": 10,
+        "same_bytes": false,
+        "dims_a": [
+          3200,
+          1614
+        ],
+        "dims_b": [
+          3200,
+          1614
+        ]
+      }
+    ]
+  },
+  "records": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 6416,
+      "sha256": "275f9ae0f9739949adb36184d977396e1159e8cdf94ddc4251d1bafd070d3629",
+      "ext": ".md"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4390,
+      "sha256": "81dbca6f0a15881b2ade24debd327852dc351dd111557598a2152b31a05bf88c",
+      "ext": ".md"
+    },
+    {
+      "path": "assets/concepts/planters/камень кашпо.jpg",
+      "bytes": 91319,
+      "sha256": "ccccf87545c086ccbb2ef8575167e1b374f7da86582b7dd7fc578a68b1b15bc6",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 1280,
+      "height": 822,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "0000001101101011010010011100110011001100110011001100110000000010",
+      "exif_present": false
+    },
+    {
+      "path": "assets/portfolio/decorative-surfaces/photo_2025_10_10_17_29_44_topaz_remove_denoise_sharpen_lighting.jpg",
+      "bytes": 361893,
+      "sha256": "6d4308f2a09ca1d6d5cb3a96283b1c350c4153949d2c3fda86aad92bb8a00646",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 1280,
+      "height": 853,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "1000000111011111111110001111100111101001011100000111100011111100",
+      "exif_present": true,
+      "exif": {}
+    },
+    {
+      "path": "assets/portfolio/decorative-surfaces/photo_2025_10_10_17_29_54_topaz_remove_denoise_sharpen_lighting.jpg",
+      "bytes": 372280,
+      "sha256": "33a33c518cfde639cf25cc1189ccd7770bf901efe3b4283b09001588893f094a",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 1280,
+      "height": 853,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "0000000101111111110111111001111010011110101111101011011010110100",
+      "exif_present": true,
+      "exif": {}
+    },
+    {
+      "path": "assets/portfolio/rock-objects/photo_2_2026-11-09_19-39-27.jpg",
+      "bytes": 271293,
+      "sha256": "e895c29c3cc9333158609002a657ae3db00c25e1d4fb169efaf76c3044e45f24",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 963,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1101101111000110110100001110001011100010110110010011100111010010",
+      "exif_present": false
+    },
+    {
+      "path": "assets/portfolio/rock-relief-details/photo_5_2026-11-09_19-39-27.jpg",
+      "bytes": 292034,
+      "sha256": "69328bcd06d98f52a9c4848dc14ddb7ee84261887edd15c965b0060c9b10be46",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 960,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1100101011001000011001000011100001011000000100000001001000001011",
+      "exif_present": false
+    },
+    {
+      "path": "assets/portfolio/rock-relief-details/photo_6_2026-11-09_19-39-27.jpg",
+      "bytes": 283217,
+      "sha256": "2b6d7f9ecc71c891df8022ba646cf39899cc7ca0f30ea05c343804de20a71b85",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 960,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0011110100001100000011000010011010100110110010100110110111101101",
+      "exif_present": false
+    },
+    {
+      "path": "assets/portfolio/rock-relief-details/photo_7_2026-11-09_19-39-27.jpg",
+      "bytes": 260498,
+      "sha256": "def1776e0fbc1214f2e29a8169b47e9e40b63bc623f55bc316eb351b4c46d1fd",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 960,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1101000101010100001000001010100001010000001101001001110011001000",
+      "exif_present": false
+    },
+    {
+      "path": "assets/portfolio/rock-relief-details/photo_8_2026-11-09_19-39-27.jpg",
+      "bytes": 281202,
+      "sha256": "374f904d999167e47adeb67cd2696299dd06eca827f44f6d7d611b8992fa424c",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 960,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0000100100000001010000000000001100000111000011110000011001000111",
+      "exif_present": false
+    },
+    {
+      "path": "assets/portfolio/rock-relief-details/photo_9_2026-11-09_19-39-27.jpg",
+      "bytes": 261440,
+      "sha256": "7ffbd6db41ccc3c8fc113d1083b4c169a69b2edb6210c937e0d0751991a9a689",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 960,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1001101011001010011010101010100000101001101101000011001011111011",
+      "exif_present": false
+    },
+    {
+      "path": "assets/portfolio/rock-surfaces/WhatsApp Image 2025-08-26 at 15.39.00.jpeg",
+      "bytes": 180871,
+      "sha256": "83c4de0ce27396788ed59e772db9121b01aaebf442291197c402bb9b7ad6413a",
+      "ext": ".jpeg",
+      "format": "JPEG",
+      "width": 960,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0111001101111100001101000011011000110100011001110001111011011001",
+      "exif_present": false
+    },
+    {
+      "path": "assets/portfolio/rock-surfaces/WhatsApp Image 2025-09-03 at 01.07.29.jpeg",
+      "bytes": 317175,
+      "sha256": "fc9fccb4b36a6efebc31e8bf2ab0e1d5b520e6f5affb7ac41c674c439f498f04",
+      "ext": ".jpeg",
+      "format": "JPEG",
+      "width": 1599,
+      "height": 1200,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "1110111111101111001110110011011010110110010101001110011011001010",
+      "exif_present": false
+    },
+    {
+      "path": "assets/portfolio/rock-surfaces/WhatsApp Image 2025-09-03 at 01.07.30.jpeg",
+      "bytes": 405675,
+      "sha256": "c2fa76d840911e963ed541be3d01937c5f0c62dd4d8ab4ee112d77cd1aa8c0b2",
+      "ext": ".jpeg",
+      "format": "JPEG",
+      "width": 1599,
+      "height": 1200,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "0011111100111111111111111111110111101100111011001111111001110011",
+      "exif_present": false
+    },
+    {
+      "path": "assets/portfolio/rock-surfaces/photo_1_2026-11-09_19-39-27.jpg",
+      "bytes": 169721,
+      "sha256": "b5b8b622f5e787be9c5da97e617cab566220529b16ca6b294535a241e09b4978",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 1280,
+      "height": 960,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "1111111111111110111111111111111111111110101111100111110011111100",
+      "exif_present": false
+    },
+    {
+      "path": "assets/portfolio/rock-surfaces/мой камень.jpeg",
+      "bytes": 307809,
+      "sha256": "bc2f1b85bfaf8de1cc161e78977f483220bf701e59630089cc7f32a5d5f7efce",
+      "ext": ".jpeg",
+      "format": "JPEG",
+      "width": 1599,
+      "height": 1200,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "0111001001110010111001101110011100110101001101000001100000011000",
+      "exif_present": false
+    },
+    {
+      "path": "assets/portfolio/rock-surfaces/скала стена1.jpg",
+      "bytes": 198506,
+      "sha256": "7f19370e4d00c11406b4e4e40049c2dece855920546d0e4c42e71968ce8c4885",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 720,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1111100111111001110000011000010100101101100111011111110001110110",
+      "exif_present": false
+    },
+    {
+      "path": "assets/portfolio/rock-surfaces/скала стона2.jpg",
+      "bytes": 306906,
+      "sha256": "b5fa8dfeb8932baf84eba23192a779034067036ccfd1dea1d8870b1c9a32765b",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 720,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0101100101101001101011001101110010011110100111111000001101101011",
+      "exif_present": false
+    },
+    {
+      "path": "assets/portfolio/themed-sculptures/WhatsApp Image 2025-09-05 at 19.11.14.jpeg",
+      "bytes": 252716,
+      "sha256": "1a271922a713d0d411873bd7371f49a3f945eb5b2f4552e5ee6699842b75f84c",
+      "ext": ".jpeg",
+      "format": "JPEG",
+      "width": 960,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1011011001101000010011000101100001110001010011000101100000010001",
+      "exif_present": false
+    },
+    {
+      "path": "assets/portfolio/themed-sculptures/photo_2022-11-29_15-21-10.jpg",
+      "bytes": 335229,
+      "sha256": "d4a86f91a97bf768e041c46b933838138f777cef7bbbe08f5ca05f07254bea93",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 1280,
+      "height": 960,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "0101111011000111000011111001011110010111010010011100100111011001",
+      "exif_present": false
+    },
+    {
+      "path": "assets/portfolio/themed-sculptures/photo_2024-09-04_19-03-42.jpg",
+      "bytes": 268611,
+      "sha256": "ddffbedb8295e607ee7b11283c34f3fc54b66b72f129ec456ae782fb1f51bfc2",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 960,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0101100101010111011101100110011011000010110000101000111000110010",
+      "exif_present": false
+    },
+    {
+      "path": "assets/portfolio/themed-sculptures/photo_2024-09-04_19-36-36.jpg",
+      "bytes": 173309,
+      "sha256": "c2b1d37fd1d3b8ad8d1e8fe3866b575fe0ce07ca4ece3830d49081c24f45fdc1",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 960,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0011011010001110011010000001110000011100000110110000111000000100",
+      "exif_present": false
+    },
+    {
+      "path": "assets/portfolio/themed-sculptures/photo_2024-09-05_12-20-27.jpg",
+      "bytes": 213186,
+      "sha256": "a9461792b8b945e8f0cf32003549446be47537dd4651b5fe12702983869a4b1f",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 960,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1000000011000010110001101100011111000011110001111001000000000000",
+      "exif_present": false
+    },
+    {
+      "path": "assets/portfolio/themed-sculptures/photo_2024-09-27_08-24-07.jpg",
+      "bytes": 267796,
+      "sha256": "e71b212bbf88291bfc72fba6176ee2f0e58825b86de27f097b48f906c4ce43cf",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 960,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1111001111100000100011001001101101100110110111001111000011111000",
+      "exif_present": false
+    },
+    {
+      "path": "assets/portfolio/themed-sculptures/photo_2024-10-03_18-03-25.jpg",
+      "bytes": 143321,
+      "sha256": "e164696b24a14ef00ee2c10f63cf71540f5a86c2b276c0b16689a4df346de8b0",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 720,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0001110100010011100000111001010110010011101000110010001100101001",
+      "exif_present": false
+    },
+    {
+      "path": "assets/portfolio/themed-sculptures/photo_2024-10-17_10-32-50.jpg",
+      "bytes": 223753,
+      "sha256": "d7ecc12ae350f42e3f733d74e48fc9e5ff3b5d95d975618a04354fd21e567733",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 960,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1010110110110100110001101110111011101110000011000100110010110000",
+      "exif_present": false
+    },
+    {
+      "path": "assets/portfolio/themed-sculptures/photo_2025-04-12_21-26-30.jpg",
+      "bytes": 225913,
+      "sha256": "ca8ef5d2cd924e8f0bbff4fdb3836ffbc94c91d684b6e1e961ca2cfef449706a",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 960,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1000010110110000101010011100100110011100100101001001100010011010",
+      "exif_present": false
+    },
+    {
+      "path": "assets/portfolio/themed-sculptures/photo_2025-04-12_21-40-48.jpg",
+      "bytes": 225163,
+      "sha256": "b5ff915bccf1defa968d642f91208d202db8dc307146091c1ebada409078c067",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 1280,
+      "height": 960,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "0011100110101001001000010000100100011011100111101100011100101011",
+      "exif_present": false
+    },
+    {
+      "path": "assets/portfolio/themed-sculptures/photo_2025-04-12_22-32-05.jpg",
+      "bytes": 138172,
+      "sha256": "ad0b5dc13a570e5b64f42e50c480040e7d63e8187051e9b2eb02479c38917c68",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 960,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0000010000000010000100100001111001101110011110010111101101110011",
+      "exif_present": false
+    },
+    {
+      "path": "assets/portfolio/themed-sculptures/photo_2025-04-12_22-32-41.jpg",
+      "bytes": 143388,
+      "sha256": "006fb5180fcf59cd2068d9a790368c15df6befeff9ea1b166e195ef5e589fb69",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 960,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1011011011111011110110111001101100011010001110000011000111110011",
+      "exif_present": false
+    },
+    {
+      "path": "assets/portfolio/themed-sculptures/photo_2025-04-12_22-33-56.jpg",
+      "bytes": 173927,
+      "sha256": "aabba343502376d426992aed056ddfff18b7b9a2f57108dd9e2fee29c17c5ff1",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 960,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1000011111000111000001111000010001000110010000100001101010011101",
+      "exif_present": false
+    },
+    {
+      "path": "assets/process/planter-rock-prototype/Камень кашпо2.jpeg",
+      "bytes": 193265,
+      "sha256": "32876a831cb0a04171327a8fa8c5f9eed492f04aa0b6441064dbf5efbed4d9c0",
+      "ext": ".jpeg",
+      "format": "JPEG",
+      "width": 960,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0011010100110111010000010100100111111001111010001000010110101001",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/README.md",
+      "bytes": 1275,
+      "sha256": "da1a88237172e3a5e598f23769513fca682cdef38d8ba35a09802f36c8b3061c",
+      "ext": ".md"
+    },
+    {
+      "path": "assets/processed/contact-sheets/sheet-01-heic-source.jpg",
+      "bytes": 1209641,
+      "sha256": "8ac12d5b96ffd70290e04ccf21f286358f42da9af5e3889fb6ac9a17b9746f76",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 3200,
+      "height": 2326,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "0010011110101111101110111010110110101001100000101010010010100000",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/contact-sheets/sheet-02-rock-surfaces.jpg",
+      "bytes": 834236,
+      "sha256": "2aeabaaf26f14dce846d62c2febcb84d9f864b95238057510f1c47627150eba2",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 3200,
+      "height": 1614,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "1011100110101001101010011010110010101000101010011010100101101000",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/contact-sheets/sheet-03-rock-relief-gold.jpg",
+      "bytes": 598727,
+      "sha256": "9c95348c52ece86b349a0668550dc408e93d35e3d0cea72ee68136a4caecb23d",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 3200,
+      "height": 1614,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "1010101010101010001010100010101010100000101000001010010000100000",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/contact-sheets/sheet-04-objects-planters-panels.jpg",
+      "bytes": 569695,
+      "sha256": "7750bc30383a4b696e83a242ac14bc557ed9e0f06a0850ead840c5364c9dd447",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 3200,
+      "height": 1614,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "1010011010101011101010100110011110100000101001011010010001100000",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/contact-sheets/sheet-05-themed-sculptures-1.jpg",
+      "bytes": 668529,
+      "sha256": "5bfbf2984facba876a8a5bca766b129417304caccf44420de6a3c58af5785259",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 3200,
+      "height": 1614,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "1000101010101010101010100010101010101000101010011010100101101000",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/contact-sheets/sheet-06-themed-sculptures-2.jpg",
+      "bytes": 554252,
+      "sha256": "e270f0e4c8730e666717e78bd9e32bfd842ab626d7877e6af7b8b1407b496d33",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 3200,
+      "height": 1614,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "0110101010101011101010110010101010100000101000011010000000100000",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/contact-sheets/sheet-07-props-and-references.jpg",
+      "bytes": 328887,
+      "sha256": "6bb69f596a127b1ebde149f8cec0f6c852ae01b929b10bc40dc0baa7f97e33ee",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 3200,
+      "height": 902,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "0001011010101010101010101010101010101010101010100010101001001000",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p01-bar-counter-interior.jpg",
+      "bytes": 27496,
+      "sha256": "479c750258ecc86b851fca7f17216e3522cf18a3b72d9cfece3e452c319130f8",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 480,
+      "height": 360,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "0010100101001001110010001110110011101110101111001111110111110111",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p02-bar-counter-side.jpg",
+      "bytes": 25689,
+      "sha256": "edc1ebf4041f048b89da179ea4f5da0b18afbdc200b9c305ea97a1554b29aef4",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 480,
+      "height": 360,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "1110010011111101101100011000101111101001111010110111101101011011",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p03-bar-top-patina-detail.jpg",
+      "bytes": 27423,
+      "sha256": "020ab7a44faebf34f71b86013291a9a68fbb15ae8198d9e0cc1c8dc3805e3620",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 480,
+      "height": 360,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "1011110010011110000111110101111111111111110111100001111110011111",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p04-bar-top-grill.jpg",
+      "bytes": 23528,
+      "sha256": "682893e73dd4a0ac7fa32b1a4667f612bee76dae3ba437a56a29e7e8009b222d",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 480,
+      "height": 360,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "1111010011110110110011101000111010111101101110011101101111011111",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p05-bar-end-panel-texture.jpg",
+      "bytes": 22485,
+      "sha256": "8630207ea02561d8101a5d38c8131dfa84a21bbfecefcf64373c18494911a311",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 480,
+      "height": 360,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "0110100001100000011000011110000111100000111000001110000111101001",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p06-bar-counter-full-view.jpg",
+      "bytes": 21810,
+      "sha256": "db1de2e8bf5c21ef89db84a04c073c10240bbe3ad864cc74722fdf2797a6eea3",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 480,
+      "height": 360,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "1011000000111100001111100101001111110100111011000110110100001001",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p07-bar-top-perspective.jpg",
+      "bytes": 42103,
+      "sha256": "65240bbe1f3920b74c88aeed53c9e15e576dfeb4e5581ad47e12095b460ac399",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 480,
+      "height": 360,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "0011111100111111001111100011010100110101001111110111110100101111",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p08-patina-texture-closeup.jpg",
+      "bytes": 24766,
+      "sha256": "68e6b204ef452f2fb959f5a36de4687ee3077910ea8a794bebdadf5727fd0b5b",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 480,
+      "height": 360,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "0010011110010111100101110110001111110011111010110001101100100001",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p09-patina-texture-closeup-2.jpg",
+      "bytes": 41326,
+      "sha256": "8d49cfe3df4832d32cebe5afe803c9840e442c290168dda5db1bd7d708634e96",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 480,
+      "height": 360,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "0111111011111111101111111111111111101111011111100011101110111011",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p10-rock-wall-interior-lights.jpg",
+      "bytes": 32589,
+      "sha256": "daceb74aac46c3ddf78416044cfaf02b7892af08d6aed8ecfe80d51475302a7c",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 480,
+      "height": 360,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "1010000100100000100101111001101111000011110111101101110001100000",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p11-bar-rock-end-wide.jpg",
+      "bytes": 33092,
+      "sha256": "71529c347c52dcd413f23d0db74e842e26f2885d5125f3f256632976f1021843",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 360,
+      "height": 480,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0111001101111100001101000011011000110100011001110001111011011001",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p12-facade-stone-plaque.jpg",
+      "bytes": 39312,
+      "sha256": "95bf0eb2999519e0a6d9fad38e72a76e063d9a2213ae34e125851d4865454d6c",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 480,
+      "height": 360,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "1111111111101111001110110011011010110110010101001110011011001010",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p13-facade-stone-base-ornaments.jpg",
+      "bytes": 50907,
+      "sha256": "ea75e93bfbac69654769b822e629939e0ac2e8c1d84c98f7dde47a52f8524133",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 480,
+      "height": 360,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "0011111100111111111111111111110111101100111011001111111001110011",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p14-facade-stone-corner.jpg",
+      "bytes": 38644,
+      "sha256": "e5882be81576374421f9709899027439180203658caea3351ed0c00b9379672e",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 480,
+      "height": 360,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "0111001001110000111001101110011100110101001101000001100000011000",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p15-rock-wall-panel-workshop.jpg",
+      "bytes": 30889,
+      "sha256": "e3dc7bc47bd147a81442a69161b210a00be5fb39265b6869c78ea62731f23d35",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 270,
+      "height": 480,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1111100111111001110000011000010100101101100111011111110001110110",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p16-rock-texture-closeup.jpg",
+      "bytes": 34592,
+      "sha256": "92d655bfa5ca07bd9611e24bc0267605221966aa7fd560a8e2dd2c38d975dfe6",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 270,
+      "height": 480,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0101100101101001101011001101110010011110100111111000001101101011",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p17-stone-block-wall-wood-frame.jpg",
+      "bytes": 28290,
+      "sha256": "1b586d8160d686fe51c45f4bc1a2cbdaef06293984ffb5e6edd9a90c84382d4d",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 480,
+      "height": 360,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "1111111111111110111111111111111111111110101111100111110011111100",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p18-relief-gold-veins-sakura.jpg",
+      "bytes": 37098,
+      "sha256": "9df0e4b6819a7014af07269cc6cf793293c7bcd011f49a619d52a32c9791c26d",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 360,
+      "height": 480,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1100101011001000011001000011100001011000000100000001001000001011",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p19-relief-gold-vein-detail.jpg",
+      "bytes": 41223,
+      "sha256": "4251f731dd9301798db8ace5683a825f884dd81fbf3296df2b74c11b45a36938",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 360,
+      "height": 480,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0011110100001100000011000010011010100110110010100110110111101101",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p20-relief-gold-veins-wide.jpg",
+      "bytes": 33774,
+      "sha256": "aa81fa36bf5e87b6418bfc5c289fa686bfc24b007ea8374100c77a7acad40c08",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 360,
+      "height": 480,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1101000101010100001000001010100001010000001101001001110011001000",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p21-relief-gold-gravel-vein.jpg",
+      "bytes": 36851,
+      "sha256": "f34ec5d56daaf29e8197004591b2a430439e1ba653a54487f3053d014d39a82e",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 360,
+      "height": 480,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0000100100000001010000000000001100000111000011110000011001000111",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p22-relief-gold-veins-vertical.jpg",
+      "bytes": 37011,
+      "sha256": "8411992b0704f6c37e020a5ac92a5382ecf8be1795196cb7c65069273011d21d",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 360,
+      "height": 480,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1001101011001010011010101010100000101001101101000011001011111011",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p23-relief-gold-vein-detail-dup.jpg",
+      "bytes": 41223,
+      "sha256": "4251f731dd9301798db8ace5683a825f884dd81fbf3296df2b74c11b45a36938",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 360,
+      "height": 480,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0011110100001100000011000010011010100110110010100110110111101101",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p24-rock-props-park-ride.jpg",
+      "bytes": 36990,
+      "sha256": "ec0938a6c3c4b28e10cc741bdb5cc248f684f88fcf444a0ba90a28bb9de435e4",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 361,
+      "height": 480,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1101101111000110110100001110001011100010110110010001100111010010",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p25-planter-prototype.jpg",
+      "bytes": 31549,
+      "sha256": "8d36211e149cd129cbbb126d436b114b310420a436c49c5b6af47ba01005e501",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 360,
+      "height": 480,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0011010100110111010000010100100111111001111010001000010110101001",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p26-planter-concept-dimensions.jpg",
+      "bytes": 16408,
+      "sha256": "e262c4aa0cdd55fb810274fb9a2f928f87b9e53751a0028ce8b94b5fc2b3e325",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 480,
+      "height": 308,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "0000001101101011010010011100110011001100110011001100110000000010",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p27-dark-counter-showroom-angle.jpg",
+      "bytes": 24890,
+      "sha256": "9c8214e6f3ce71f02c27a1d936f76c660273f16ef542c28a23f5fea695457b63",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 480,
+      "height": 320,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "1000000111011111111110001111100111101001011100000111100011111100",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p28-dark-counter-showroom-front.jpg",
+      "bytes": 24659,
+      "sha256": "9385881d17280fedcacb515785b23ec55d0d4421885a5b37711d4f42045c3e19",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 480,
+      "height": 320,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "0000000101111111110111111001111010011110101111101011011010110100",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p29-textured-art-panel-room.jpg",
+      "bytes": 27289,
+      "sha256": "0fb234228b629d5e1d376c2df1364cb1fd6f0240cbad8a744b08088fef4c4d10",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 384,
+      "height": 480,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1111111101111110010001110110000101110111011111110110110110010011",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p30-red-mouths-installed-park.jpg",
+      "bytes": 42880,
+      "sha256": "64dee3a4054c469b1da4e34ef99233b50ad7fae7e21d6311657d6a76574497d0",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 480,
+      "height": 360,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "0101111011000111000011111001011110010111010010011100100111011001",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p31-green-dragon-park.jpg",
+      "bytes": 35183,
+      "sha256": "d02cee77a38a56898f58060785ebb7918eb114b89efbfab3920e6c7c34bc6997",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 360,
+      "height": 480,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0101100101010111011101100110011011000010110000101000111000110010",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p32-white-cat-sculpture-primed.jpg",
+      "bytes": 25663,
+      "sha256": "3ee4b3247340730000263cd2b045eddc32718a7abb30f98b4b604ffac5065487",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 360,
+      "height": 480,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0011011010001110011010000001110000011100000110110000111000000100",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p33-snowman-painted-workshop.jpg",
+      "bytes": 29145,
+      "sha256": "7ac8633f1459c7bff655d768b109f8892f86ccfbd71219cd05892514776d54e0",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 360,
+      "height": 480,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1000000011000010110001101100011111000011110001111001000000000000",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p34-red-mouths-primed.jpg",
+      "bytes": 36707,
+      "sha256": "91cd8d0d9a93c68a935e04aa013d352df7e46fd390c0a1949230216bffcc27ed",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 360,
+      "height": 480,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1111001111100000100011001001101101100110110111001111000011111000",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p35-red-mouths-painting.jpg",
+      "bytes": 25597,
+      "sha256": "33c2b3766035bed0d8670824b2da843b4adb7778cd22d9db92fa9a02fae695cc",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 270,
+      "height": 480,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0001110100010011100000111001010110010011101000110010001100101001",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p36-red-mouths-painted.jpg",
+      "bytes": 35881,
+      "sha256": "7aa8f7d82ab43407f262cb566249e63c47e21552e9f74627bd1d4219f89aadae",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 360,
+      "height": 480,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1010110110110100110001101110111011101110000011000100110010110000",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p37-red-mouths-finished-yard.jpg",
+      "bytes": 35400,
+      "sha256": "cabb04f4ce059280a4684158817b504608045548f9cfc598a67166829344bdd1",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 360,
+      "height": 480,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1000010110110000101010011100100110011100100101001001100010011010",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p38-mushroom-troll-painted.jpg",
+      "bytes": 32024,
+      "sha256": "5fa3a057508c6165ceb89d91ed96956c815fe5131e17258bf8b567460e6f2173",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 480,
+      "height": 360,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "0011100110101001001000010000100100011011100111101100011100101011",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p39-snowman-primed-selfie.jpg",
+      "bytes": 25109,
+      "sha256": "e55565a554059e12bdfa762dcb380f18136a1428d4097768076988fc617db5a0",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 360,
+      "height": 480,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0000010000000010000100100001111001101110011110010111101101110011",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p40-snowman-primed-selfie-2.jpg",
+      "bytes": 27852,
+      "sha256": "3c70a1b84f1c987b3ed74822542be4b560e45a221789bf118d6e9698b1b99fca",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 360,
+      "height": 480,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1011011011111011110110111001101100011010001110000011000111110011",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p41-dragon-head-primed.jpg",
+      "bytes": 28775,
+      "sha256": "6e2f7ad3b20752d42acd137ad8c8112072291a601c4c40b6d496d4f6f7041911",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 360,
+      "height": 480,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1000011111000111000001111000010001000110010000100001101010011101",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p42-giant-head-sculpture-rocks.jpg",
+      "bytes": 42439,
+      "sha256": "d0ca2bedeb894c3368734a98479d881ca554cedd1d42b997cc01697a08b34661",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 360,
+      "height": 480,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1011111001101000010011000101100001110001010011000101100000010001",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p43-hammer-prop-wall.jpg",
+      "bytes": 24399,
+      "sha256": "f120b3d3277083a0677120becb0f0be97cfc18139c6b421e34a931e8ecbc4742",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 270,
+      "height": 480,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0001100011010010110011001100110111010011100000111000000111000010",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p44-hammer-axe-props.jpg",
+      "bytes": 29085,
+      "sha256": "20be9ddf3527e29d6786cde1f5d6914620d71def8b5a9c77b290da8be1457acb",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 270,
+      "height": 480,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1010111001111010110101001100010010100100110011000100111100001111",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p45-cracked-sphere-pedestal.jpg",
+      "bytes": 28168,
+      "sha256": "c8e255bbfaf49e0db0ec303aa5a1e1f69657372a9622fa3eb4215bef0a59e62b",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 420,
+      "height": 480,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0000111100001111110101101000101011011100111000001111100001111100",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/thumbs/p46-glowing-monolith-reference.jpg",
+      "bytes": 19649,
+      "sha256": "32ca3b92134d63f2210c8ab38317e1a901adab6c80432300e563b4def3a24e14",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 320,
+      "height": 480,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0000000010011100100111000001110100111100101111111101001100111100",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p01-bar-counter-interior.jpg",
+      "bytes": 234907,
+      "sha256": "e9e8c6b4c7338f464a51e503f1f76b26fa096999e9d6b6845d1adff086fc45e5",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 1600,
+      "height": 1200,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "0010100101001001110010001110110011101110101111001111110111110111",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p02-bar-counter-side.jpg",
+      "bytes": 221630,
+      "sha256": "d49c4a38f7ec0803dea2d3477984f2fe1889d81acac990ebd3faf58715c3659e",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 1600,
+      "height": 1200,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "1110010011111101101100011000101111101001111010110111101101011011",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p03-bar-top-patina-detail.jpg",
+      "bytes": 305600,
+      "sha256": "327be57b660f3dfc8e92ba6c297213d5a8c9e6b583af481c1290415dfbb2a7f1",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 1600,
+      "height": 1200,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "1011110010011110000111110101111111111111110111100001111110011111",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p04-bar-top-grill.jpg",
+      "bytes": 205057,
+      "sha256": "d2356d1b024eccba8e43c2d435dee7ea3aca63113d2ee7d943bf853364272c3c",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 1600,
+      "height": 1200,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "1111010011110110110011101000111010111101101110011101101111011111",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p05-bar-end-panel-texture.jpg",
+      "bytes": 328154,
+      "sha256": "0974af68c1605d1f170ab5172f8b87cc7cf2c9f869939da6d0debcaebe8ef960",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 1600,
+      "height": 1200,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "0110100001100000011000011110000111100000111000001110000111101001",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p06-bar-counter-full-view.jpg",
+      "bytes": 323654,
+      "sha256": "5112787fec1d528dbc2ac842333981fe32ea4d7ea6415f06f25cfb9b6db4a254",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 1600,
+      "height": 1200,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "1011000000111100001111100101001111110100111011000110110100001001",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p07-bar-top-perspective.jpg",
+      "bytes": 511449,
+      "sha256": "857c716fb55da68d6f62740884b106a92c841be8500355b5b5ea7dd6d7e2d7a6",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 1600,
+      "height": 1200,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "0011111100111111001111100011010100110101001111110111110100101111",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p08-patina-texture-closeup.jpg",
+      "bytes": 175957,
+      "sha256": "ccb9f01b3106c2367b5b9a94d2581025d92b9b8e772fa3500e096cbdbe16924c",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 1600,
+      "height": 1200,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "0010011110010111100101110110001111110011111010110001001100100001",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p09-patina-texture-closeup-2.jpg",
+      "bytes": 409336,
+      "sha256": "771a6fdc46fc723d9d57f30d545398942015b508fb3d73eef49a729a535df91c",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 1600,
+      "height": 1200,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "0111111011111111101111101110111111101111011111100011101110111011",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p10-rock-wall-interior-lights.jpg",
+      "bytes": 297568,
+      "sha256": "930b677a8afd2adba5a773b5e02bea4d8527ee171efc08dafbb94cac344a08f3",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 1600,
+      "height": 1200,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "1010000100100000100101111001101111000011110111101101110001100000",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p11-bar-rock-end-wide.jpg",
+      "bytes": 194511,
+      "sha256": "9568017e62c32c81996a0875147f882ce27edb6f03010738bec2f46658d3aa04",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 960,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0111001101111100001101000011011000110100011001110001111011011001",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p12-facade-stone-plaque.jpg",
+      "bytes": 330424,
+      "sha256": "ecbf23057c6dd619a49097755233a62dc28cc1c4800fb9c618f2abf68e36808d",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 1599,
+      "height": 1200,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "1110111111101111001110110011011010110110010101001110011011001010",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p13-facade-stone-base-ornaments.jpg",
+      "bytes": 426035,
+      "sha256": "3e83f2ba6fd54f3aebffb46cee1024ea445b0f849c87189712b4571168c66e42",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 1599,
+      "height": 1200,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "0011111100111111111111111111110111101100111011001111111001110011",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p14-facade-stone-corner.jpg",
+      "bytes": 328382,
+      "sha256": "d942815e21a4751694be131c3e36ee04e19847031cca12334e2be54cdf708d33",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 1599,
+      "height": 1200,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "0111001001110000111001101110011100110101001101000001100000011000",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p15-rock-wall-panel-workshop.jpg",
+      "bytes": 173828,
+      "sha256": "b481af222cdcccbd17feeb23ddd9d3d33f3313eb7c2e3c65a842e8fc428a0d1f",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 720,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1111100111111001110000011000010100101101100111011111110001110110",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p16-rock-texture-closeup.jpg",
+      "bytes": 267392,
+      "sha256": "775354f74acf1642f276f7e265686b90ee984cbad79cf998fa83db348287e2a0",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 720,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0101100101101001101011001101110010011110100111111000001101101011",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p17-stone-block-wall-wood-frame.jpg",
+      "bytes": 147276,
+      "sha256": "f566f5b52c9e709ba7753cfe540404ead7ee194d8202c77bd7693b89e6edc325",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 1280,
+      "height": 960,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "1111111111111110111111111111111111111110101111100111110011111100",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p18-relief-gold-veins-sakura.jpg",
+      "bytes": 253569,
+      "sha256": "00263c3ded9e785abb6ee86dc83ac6d383ad8d089d89566092aef7bbaade3d5f",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 960,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1100101011001000011001000011100001011000000100000001001000001011",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p19-relief-gold-vein-detail.jpg",
+      "bytes": 247086,
+      "sha256": "79388db982e825e9c4644e431ecafaf0e362af3338adcd5fda509df827fb2f57",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 960,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0011110100001100000011000010011010100110110010100110110111101101",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p20-relief-gold-veins-wide.jpg",
+      "bytes": 225878,
+      "sha256": "d2d9e4cc9892f3be5ef6a4509a4f896cda8d11b3602895a0bd60298550216944",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 960,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1101000101010100001000001010100001010000001101001001110011001000",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p21-relief-gold-gravel-vein.jpg",
+      "bytes": 244060,
+      "sha256": "16e5789507a368697bac08421813d6f351462d9faa3c5d82512b1c9483e98e64",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 960,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0000100100000001010000000000001100000111000011110000011001000111",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p22-relief-gold-veins-vertical.jpg",
+      "bytes": 227468,
+      "sha256": "86a4bbb577ad27d0d92c722406ce0ff8a6ca6f16a1224d3563990ab5e4f2d2b4",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 960,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1001101011001010011010101010100000101001101101000011001011111011",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p23-relief-gold-vein-detail-dup.jpg",
+      "bytes": 247086,
+      "sha256": "79388db982e825e9c4644e431ecafaf0e362af3338adcd5fda509df827fb2f57",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 960,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0011110100001100000011000010011010100110110010100110110111101101",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p24-rock-props-park-ride.jpg",
+      "bytes": 234954,
+      "sha256": "6ed082ecda2d1bda136e44d8980272292637ea8cf9fcee946b29afe4dcd1a88a",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 963,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1101101111000110110100001110001011100010110110010011100111010010",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p25-planter-prototype.jpg",
+      "bytes": 205595,
+      "sha256": "ae5538dc5a06dd5b2f16f08e4492a7a852aafe3fca47959fb546734f4c782682",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 960,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0011010100110111010000010100100111111001111010001000010110101001",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p26-planter-concept-dimensions.jpg",
+      "bytes": 79310,
+      "sha256": "a82e5f841c498bfac22298edc0fe793accaa7de76d6619af8f6da9174eb7f3c9",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 1280,
+      "height": 822,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "0000001101101011010010011100110011001100110011001100110000000010",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p27-dark-counter-showroom-angle.jpg",
+      "bytes": 159827,
+      "sha256": "000d227fac45bd4b8254920fa9546da78e0726317f8927b7cc2d5a79ce2c6c9d",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 1280,
+      "height": 853,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "1000000111011111111110001111100111101001011100000111100011111100",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p28-dark-counter-showroom-front.jpg",
+      "bytes": 161556,
+      "sha256": "eabd57493d24077a943ec7dd7495064acbf89d15fd5121227c1cf7a806b03a0a",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 1280,
+      "height": 853,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "0000000101111111110111111001111010011110101111101011011010110100",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p29-textured-art-panel-room.jpg",
+      "bytes": 285742,
+      "sha256": "56bd91f5bfd829f088eaff06c62eb4b00b651e0bcbdbf185b25707b08caf2fbb",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 1281,
+      "height": 1600,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1111111101111110010001110110000101110111011111110110110110010011",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p30-red-mouths-installed-park.jpg",
+      "bytes": 290283,
+      "sha256": "5125f82d7236b53b105cbbbfdc154af41a0087a861422db281b14097df54ff48",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 1280,
+      "height": 960,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "0101111011000111000011111001011110010111010010011100100111011001",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p31-green-dragon-park.jpg",
+      "bytes": 231955,
+      "sha256": "bc1de1ac3baa10096444d1f9cba3493e2ffade13ef9ca876e65bce32906a79e6",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 960,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0101100101010111011101100110011011000010110000101000111000110010",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p32-white-cat-sculpture-primed.jpg",
+      "bytes": 149469,
+      "sha256": "488e91a2c9af5f9699f155ccf855770b731546b13114fdbfb8b1a6e321696974",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 960,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0011011010001110011010000001110000011100000110110000111000000100",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p33-snowman-painted-workshop.jpg",
+      "bytes": 183929,
+      "sha256": "5b5fa47aada137da39eafd819fea4213257e870a08e8e901c9ab5bb4c0523d35",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 960,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1000000011000010110001101100011111000011110001111001000000000000",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p34-red-mouths-primed.jpg",
+      "bytes": 232250,
+      "sha256": "bd14fc982d35de1a13e695b815ab387ad7b0512a9f336eefdd0bbfc0bd5abb06",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 960,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1111001111100000100011001001101101100110110111001111000011111000",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p35-red-mouths-painting.jpg",
+      "bytes": 125323,
+      "sha256": "8fce697452d0d5fa391b38fcb3fb106efbd1386592ae1ed158109bac6b5c45a6",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 720,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0001110100010011100000111001010110010011101000110010001100101001",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p36-red-mouths-painted.jpg",
+      "bytes": 194955,
+      "sha256": "1a0fc31401470a78684cefa222ea3c6acaf798cb89a3916c7f8877b8edf9e21a",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 960,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1010110110110100110001101110111011101110000011000100110010110000",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p37-red-mouths-finished-yard.jpg",
+      "bytes": 196190,
+      "sha256": "57d0c8eeba902573b812ab2e978ee496cf7db4b3c7ddb90de933f38ce68b0780",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 960,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1000010110110000101010011100100110011100100101001001100010011010",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p38-mushroom-troll-painted.jpg",
+      "bytes": 194768,
+      "sha256": "23b76828f280c339a565b4fc6029d66dfd83c9220e1b2cde6674f97b2a9bba0b",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 1280,
+      "height": 960,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "0011100110101001001000010000100100011011100111101100011100101011",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p39-snowman-primed-selfie.jpg",
+      "bytes": 119633,
+      "sha256": "5b629407026662814c769858cdeb56bca7efd2425a3c1d66e7159ffd47c63e3f",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 960,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0000010000000010000100100001111001101110011110010111101101110011",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p40-snowman-primed-selfie-2.jpg",
+      "bytes": 124841,
+      "sha256": "cdd56fccb5ab82ad5d468df64d7241567c6cac468896a5c7351f4dd8c3dd3473",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 960,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1011011011111011110110111001101100011010001110000011000111110011",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p41-dragon-head-primed.jpg",
+      "bytes": 149998,
+      "sha256": "2008cdd9a6e934529b3c7886a2beee247386719547bbfab9c3d1b7bd3318f1f7",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 960,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1000011111000111000001111000010001000110010000100001101010011101",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p42-giant-head-sculpture-rocks.jpg",
+      "bytes": 268374,
+      "sha256": "17c17cefcb93362690c886ae8894af648e24f8b3419a772e9404d6ee0ebb73da",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 960,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1011011001101000010011000101100001110001010011000101100000010001",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p43-hammer-prop-wall.jpg",
+      "bytes": 179411,
+      "sha256": "c274cb4d09f49c85790cfafad8bda954d55ad9fa6a8a4a802013f6b4a52d8212",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 720,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0001100011010010110011001100110111010011100000111000000111000010",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p44-hammer-axe-props.jpg",
+      "bytes": 168712,
+      "sha256": "0f5034399affe1232679b8a8e2d08b40aa1eeed6000abeb46608dce051a81493",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 720,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1010111001111010110101001100010010100100110011000100111100001111",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p45-cracked-sphere-pedestal.jpg",
+      "bytes": 92067,
+      "sha256": "f52d0c53113d84b4c691d5f6ab78bfe27f4b15f07857eb2a29cdce103a84d42b",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 855,
+      "height": 976,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0000111100001111110101101000101011011100111000001111100001111100",
+      "exif_present": false
+    },
+    {
+      "path": "assets/processed/web/p46-glowing-monolith-reference.jpg",
+      "bytes": 30121,
+      "sha256": "ca5dd9f42820f753fb4791b10324b902cc160686ac60492338d94dcba024cd1a",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 400,
+      "height": 600,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0000000010011100100111000001110100111100101111111101001100111100",
+      "exif_present": false
+    },
+    {
+      "path": "assets/source/duplicates/photo_10_2026-11-09_19-39-27.jpg",
+      "bytes": 283217,
+      "sha256": "2b6d7f9ecc71c891df8022ba646cf39899cc7ca0f30ea05c343804de20a71b85",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 960,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0011110100001100000011000010011010100110110010100110110111101101",
+      "exif_present": false
+    },
+    {
+      "path": "assets/source/heic-to-review/IMG_1527-topaz-sharpen-denoise-lighting-color.HEIC",
+      "bytes": 907558,
+      "sha256": "22a326321395688daa169894d0bc0003651968c63c6500252c45c454b7397246",
+      "ext": ".heic",
+      "format": "HEIF",
+      "width": 4032,
+      "height": 3024,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "0010100101001001110010001110110011101110101111001111110111110111",
+      "exif_present": false
+    },
+    {
+      "path": "assets/source/heic-to-review/IMG_1528-topaz-denoise-sharpen-lighting-color.HEIC",
+      "bytes": 1068666,
+      "sha256": "4e7b30be2ade76cda3343163005bb6e9078299c818dd1dca326ac5bb7e24276c",
+      "ext": ".heic",
+      "format": "HEIF",
+      "width": 4032,
+      "height": 3024,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "1110010011111101101100011000101111101001111010110111101101011011",
+      "exif_present": false
+    },
+    {
+      "path": "assets/source/heic-to-review/IMG_1529-topaz-denoise-sharpen-lighting-color.HEIC",
+      "bytes": 1564903,
+      "sha256": "2e6ddcfbd0da12aaed48139af9132afe372b5669d97d2ef3ae7c8b7a46ec9434",
+      "ext": ".heic",
+      "format": "HEIF",
+      "width": 4032,
+      "height": 3024,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "1011110010011110000111110101111111111111110111100001111110011111",
+      "exif_present": false
+    },
+    {
+      "path": "assets/source/heic-to-review/IMG_1530-topaz-denoise-sharpen-lighting-color.HEIC",
+      "bytes": 1113178,
+      "sha256": "5092ae499fd049d7ce2bef185593b5f1288dbe3088202a4ac0912e1dcfdcf320",
+      "ext": ".heic",
+      "format": "HEIF",
+      "width": 4032,
+      "height": 3024,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "1111010011110110110011101000111010111101101110011101101111011111",
+      "exif_present": false
+    },
+    {
+      "path": "assets/source/heic-to-review/IMG_1531-topaz-denoise-sharpen-lighting-color.HEIC",
+      "bytes": 2992784,
+      "sha256": "6c15838d22ee7a6573bd27228e018d34df3317dfdd938f4e78a7ace109b1bcab",
+      "ext": ".heic",
+      "format": "HEIF",
+      "width": 4032,
+      "height": 3024,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "0110100001100000011000011110000111100000011000001110000111101001",
+      "exif_present": false
+    },
+    {
+      "path": "assets/source/heic-to-review/IMG_1532-topaz-denoise-sharpen-lighting-color.HEIC",
+      "bytes": 2922314,
+      "sha256": "df16f864befbc3ac3692363be3f29184778728c4d1b2e4efe4ab793b4e254d8e",
+      "ext": ".heic",
+      "format": "HEIF",
+      "width": 4032,
+      "height": 3024,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "1011000000111100001111100101001111110100111011000110110100001001",
+      "exif_present": false
+    },
+    {
+      "path": "assets/source/heic-to-review/IMG_1533-topaz-denoise-sharpen-lighting-color.HEIC",
+      "bytes": 2507118,
+      "sha256": "ca32f3ae36e2bf0a9b2ee46371f385f32e491ca61212c8a7af0346081ab8247a",
+      "ext": ".heic",
+      "format": "HEIF",
+      "width": 4032,
+      "height": 3024,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "0011111100111111001111100011010100110101001111110111110100101111",
+      "exif_present": false
+    },
+    {
+      "path": "assets/source/heic-to-review/IMG_1534-topaz-denoise-sharpen-lighting-color.HEIC",
+      "bytes": 478509,
+      "sha256": "6d2908b233d7ec11b35f91da88df2a28e143c2d83c4c5964bf3363a8a2e1a1ee",
+      "ext": ".heic",
+      "format": "HEIF",
+      "width": 4032,
+      "height": 3024,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "0010011110010111100101110110001111110011111010110001101100100001",
+      "exif_present": false
+    },
+    {
+      "path": "assets/source/heic-to-review/IMG_1537-topaz-denoise-sharpen-lighting-color.HEIC",
+      "bytes": 1594962,
+      "sha256": "ce69f2e779b8ee28b1adbe8423a7938f025ed38ea77a23768a5f03b44cae6e39",
+      "ext": ".heic",
+      "format": "HEIF",
+      "width": 4032,
+      "height": 3024,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "0111111011111111101111111110111111101111011111100011101110111011",
+      "exif_present": false
+    },
+    {
+      "path": "assets/source/heic-to-review/IMG_1539-topaz-denoise-sharpen-lighting-color.HEIC",
+      "bytes": 1233302,
+      "sha256": "4addb499cd781e5679f4540a21f61c535eb50e976c2dd8ed759028a297cbac75",
+      "ext": ".heic",
+      "format": "HEIF",
+      "width": 4032,
+      "height": 3024,
+      "mode": "RGB",
+      "orientation": "landscape",
+      "readable": true,
+      "dhash": "1010000100100000100101111001101111000011110111101101110001100000",
+      "exif_present": false
+    },
+    {
+      "path": "assets/source/unclassified/photo_11_2026-11-09_19-39-27.jpg",
+      "bytes": 106370,
+      "sha256": "f8b661a0ec7dd235385a926c084de7e633ffc6bf5649cb0eb4c2e54118cd029f",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 855,
+      "height": 976,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0000111100001111110101101000101011011100111000001111100001111100",
+      "exif_present": false
+    },
+    {
+      "path": "assets/source/unclassified/photo_12_2026-11-09_19-39-27.jpg",
+      "bytes": 34863,
+      "sha256": "2f8e8d7fed02382ff238cff30be606cfbce8b27b6f8b2a4442ea06969fb715a2",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 400,
+      "height": 600,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0000000010011100100111000001110100111100101111111101001100111100",
+      "exif_present": false
+    },
+    {
+      "path": "assets/source/unclassified/photo_3_2026-11-09_19-39-27.jpg",
+      "bytes": 203934,
+      "sha256": "5733d50b9170bccd0f721c1508ab01a76ed6c61a59fd8136c2609b9aad8c16bc",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 720,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "0001100011010010110011001100110111010011100000111000000111000010",
+      "exif_present": false
+    },
+    {
+      "path": "assets/source/unclassified/photo_4_2026-11-09_19-39-27.jpg",
+      "bytes": 193099,
+      "sha256": "0182e1f58439d05eb68f3e5ac04a8cdf7f827198d15ee13b0f5a288e3f39cf7a",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 720,
+      "height": 1280,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1010111001111010110101001100010010100100110011000100111100001111",
+      "exif_present": false
+    },
+    {
+      "path": "assets/source/unreviewed/photo_2025_10_11_19_14_02_topaz_denoise_sharpen_lighting_color_upscale.jpg",
+      "bytes": 2952851,
+      "sha256": "da941cb3b28ec5611b0f69a2aefc746dec83435a215eae154aeac4f933848288",
+      "ext": ".jpg",
+      "format": "JPEG",
+      "width": 3104,
+      "height": 3876,
+      "mode": "RGB",
+      "orientation": "portrait",
+      "readable": true,
+      "dhash": "1111111101111110010001110110000101110111011111110110110110010011",
+      "exif_present": true,
+      "exif": {}
+    },
+    {
+      "path": "docs/AGENT_HANDOFF.md",
+      "bytes": 5495,
+      "sha256": "bedc037f4f5396d8d2fd6d2be91fafc0212bc82103a59022ae101fb4c375dd0e",
+      "ext": ".md"
+    },
+    {
+      "path": "docs/ASSET_CATALOG.md",
+      "bytes": 17416,
+      "sha256": "678600711d4febba88afc2db1e2275ea1781e3d403e4359fe81cd4210bed0ae4",
+      "ext": ".md"
+    },
+    {
+      "path": "docs/AUDIT_REPORT.md",
+      "bytes": 8072,
+      "sha256": "85c1b590682addfd20efcfa8e36a9d25ee0133d93bcce21465c8052673fda2ae",
+      "ext": ".md"
+    },
+    {
+      "path": "docs/OPEN_QUESTIONS.md",
+      "bytes": 12796,
+      "sha256": "20f91e621f19ed297004c34efb511687a45eda9175d6bc72c6be477417e4f041",
+      "ext": ".md"
+    },
+    {
+      "path": "docs/PORTFOLIO_PROPOSAL.md",
+      "bytes": 9588,
+      "sha256": "53477232e24371f46ec4775a9707e1877156c3291417adc266ac011480cd1f39",
+      "ext": ".md"
+    },
+    {
+      "path": "docs/PROJECT_BRIEF.md",
+      "bytes": 8552,
+      "sha256": "7ac97316bf3c72eb1875806eafc78f0f79fe11921053d0b4fbad8341733b46b7",
+      "ext": ".md"
+    },
+    {
+      "path": "docs/assets-manifest.json",
+      "bytes": 87804,
+      "sha256": "a79a2a80e34896668da4127dceecd497d092d64ca0fa9994c8384e49a448571c",
+      "ext": ".json"
+    },
+    {
+      "path": "research/interviews/boris-2026-11-09-transcript.txt",
+      "bytes": 26180,
+      "sha256": "b90ffefefa80c30db489bf7f31347e2d8c63a368d15d4389bf7e6a07af38665a",
+      "ext": ".txt",
+      "format": "text",
+      "chars": 14468,
+      "lines": 81
+    },
+    {
+      "path": "research/source-materials/Никитин Реставратор.pdf",
+      "bytes": 4928813,
+      "sha256": "2395e12279730a56f8a6bd4f821fa46ea602ed805a4330bd00f17bfbea61f7e9",
+      "ext": ".pdf",
+      "format": "PDF",
+      "pages": 7,
+      "pdf_meta": {
+        "/Title": "Презентация_портфолио_фотографа_минимализм_мобильная.pdf, копия",
+        "/Creator": "Canva",
+        "/Producer": "Canva",
+        "/CreationDate": "D:20250413191608+00'00'",
+        "/ModDate": "D:20250413191606+00'00'",
+        "/Keywords": "DAGcYtnQAu0,BAEle02HFV4,0",
+        "/Author": "boriswsx"
+      },
+      "images_on_page": [
+        1,
+        3,
+        1,
+        3,
+        1,
+        2,
+        2
+      ],
+      "pdf_text": [
+        {
+          "page": 1,
+          "chars": 217,
+          "sample": "Реставратор\nПроизводитель интерьер декора \nНикитин Борис\n33 года\nОпыт работы:\nМарт 2021 - Февраль 2022. \nSmile Time (организация празднечных\nмереприятий). Должность - декоратор,\nсоздание декора из дерева, гипса,\nткани"
+        },
+        {
+          "page": 2,
+          "chars": 174,
+          "sample": "Ноябрь 2022 - по настоящее время\nСочи-Парк. \nДолжность-реставратор.\nПроизводство и реставрация\nскульптур и элементов декора из\nстекло пластика, арт бетона,\nполеэфирной смолы."
+        },
+        {
+          "page": 3,
+          "chars": 54,
+          "sample": "Участвовал в восстановлении\nавтомобилей “Формулы\nСочи”"
+        },
+        {
+          "page": 4,
+          "chars": 0,
+          "sample": ""
+        },
+        {
+          "page": 5,
+          "chars": 87,
+          "sample": "Разработал и внедрил в Сочи-\nПарке технологию реставрации\nарт бетана полеэфирной смолой"
+        },
+        {
+          "page": 6,
+          "chars": 106,
+          "sample": "Подбираю и коллерую\nнеобхобходимые оттенки\nЗнания различных материаллов,\nтехник создания различных текстур"
+        },
+        {
+          "page": 7,
+          "chars": 40,
+          "sample": "Контакты\n+79881575991\nBoriswsx@gmail.com"
+        }
+      ]
+    },
+    {
+      "path": "tools/generate_derived.py",
+      "bytes": 8195,
+      "sha256": "5962b352eabf284e2424422a8508dcd6508d1d2ce8153d8422c5d004220d065c",
+      "ext": ".py"
+    },
+    {
+      "path": "tools/inventory.py",
+      "bytes": 5027,
+      "sha256": "33fe1a9e7c5b093feced1d9a12a4d6c0966a3ac8b5338cb8aa4ab1f29c3ad98f",
+      "ext": ".py"
+    }
+  ]
+}
