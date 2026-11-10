@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>BORIS — авторская мастерская скульптурных объектов · внутренний черновик</title>
+  <meta name="description" content="Черновик сайта авторской мастерской: скульптурные объекты, искусственные природные поверхности и декоративные элементы для интерьеров и ландшафта.">
+  <meta name="robots" content="noindex, nofollow">
+  <!-- Шрифты: Google Fonts (если сеть недоступна, сработают системные фолбэки из styles.css) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Manrope:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">К основному содержанию</a>
+
+  <!-- Служебная плашка: оставить в версии PR. Текст править здесь. -->
+  <div class="draft-banner" role="note">
+    <span class="draft-banner__label">Внутренний черновик.</span>
+    Фото, авторство, контекст и права на публикацию требуют подтверждения.
+  </div>
+
+  <!-- ===== Шапка. Навигация: пункты меню меняются здесь ===== -->
+  <header class="site-header" id="top">
+    <div class="site-header__inner">
+      <a class="wordmark" href="#top" aria-label="BORIS — в начало страницы">BORIS<span class="wordmark__sub">авторская мастерская</span></a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label="Открыть меню">
+        <span class="nav-toggle__bar"></span><span class="nav-toggle__bar"></span>
+      </button>
+      <nav class="site-nav" id="site-nav" aria-label="Основная навигация">
+        <ul>
+          <li><a href="#approach">Подход</a></li>
+          <li><a href="#works">Работы</a></li>
+          <li><a href="#directions">Направления</a></li>
+          <li><a href="#fountain">Фонтан-колонна</a></li>
+          <li><a href="#process">Процесс</a></li>
+          <li><a href="#contact">Контакты</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+
+    <!-- ===== 1. Первый экран. Фоновая фотография: hero-кадр (P10) ===== -->
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero__media" aria-hidden="true">
+        <!-- hero-изображение: заменяется здесь (путь к веб-копии из assets/processed/web/) -->
+        <img src="../assets/processed/web/p10-rock-wall-interior-lights.jpg" alt="" fetchpriority="high">
+      </div>
+      <div class="hero__overlay" aria-hidden="true"></div>
+      <div class="hero__content">
+        <p class="hero__kicker">Авторская мастерская BORIS</p>
+        <h1 id="hero-title">Скульптурные объекты<br>и&nbsp;природные фактуры</h1>
+        <p class="hero__lead">Искусственные скальные поверхности, декоративные объекты и&nbsp;скульптуры для интерьеров и&nbsp;ландшафта. Ручное формирование рельефа, свет, вода и&nbsp;растения&nbsp;— в&nbsp;концепциях мастерской.</p>
+        <div class="hero__actions">
+          <a class="btn btn--light" href="#works">Смотреть работы</a>
+          <a class="btn btn--ghost" href="#directions">Направления</a>
+        </div>
+      </div>
+      <p class="hero__credit">Архивный кадр медиатеки · авторство и права требуют подтверждения</p>
+    </section>
+
+    <!-- ===== 2. Подход. Тексты пунктов меняются здесь ===== -->
+    <section class="section approach" id="approach" aria-labelledby="approach-title">
+      <div class="section__inner approach__grid">
+        <div class="approach__intro reveal">
+          <p class="eyebrow">Подход</p>
+          <h2 id="approach-title">Ручная работа с&nbsp;формой и&nbsp;фактурой</h2>
+          <p class="lead">Мастерская создаёт объекты, в&nbsp;которых скульптурная форма сочетается с&nbsp;эстетикой натурального камня: трещины, сколы и&nbsp;расслоения формируются вручную, а&nbsp;свет, вода, туман и&nbsp;растения могут интегрироваться в&nbsp;композицию.</p>
+        </div>
+        <ul class="approach__points">
+          <li class="reveal">
+            <h3>Ручной рельеф</h3>
+            <p>Фактура камня создаётся послойно и&nbsp;дорабатывается инструментом вручную&nbsp;— каждый рельеф получается индивидуальным.</p>
+          </li>
+          <li class="reveal">
+            <h3>Природная эстетика</h3>
+            <p>Скальные поверхности, органические линии и&nbsp;минеральные оттенки: природа как исходная точка формы.</p>
+          </li>
+          <li class="reveal">
+            <h3>Свет, вода, туман, растения</h3>
+            <p>Эти элементы закладываются в&nbsp;концепции объектов. Ряд решений находится в&nbsp;разработке&nbsp;— это указывается явно.</p>
+          </li>
+          <li class="reveal">
+            <h3>Честное разделение</h3>
+            <p>Реализованные работы, процесс и&nbsp;концепции показываются раздельно. Концепт не&nbsp;выдаётся за&nbsp;готовое изделие.</p>
+          </li>
+        </ul>
+        <figure class="approach__figure reveal">
+          <!-- деталь фактуры: заменяется здесь -->
+          <img src="../assets/processed/web/p08-patina-texture-closeup.jpg" alt="Крупный план мозаичной патинированной фактуры серебристо-серого цвета с бронзовыми вкраплениями" loading="lazy">
+          <figcaption>Деталь фактуры. Архивный материал медиатеки.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <!-- ===== 3. Избранные работы / визуальный архив.
+         Каждый кейс — <article class="case">; кадры кейса меняются в img src.
+         Важно: не объединять разные объекты в один кейс. ===== -->
+    <section class="section works" id="works" aria-labelledby="works-title">
+      <div class="section__inner">
+        <header class="works__head reveal">
+          <p class="eyebrow">Визуальный архив</p>
+          <h2 id="works-title">Избранные работы</h2>
+          <p class="lead">Реальные фотографии из&nbsp;медиатеки проекта. Кадры одной серии показаны как один объект с&nbsp;разных ракурсов.</p>
+          <p class="archive-note" role="note">Архивные материалы: авторство, контекст, даты и&nbsp;права на&nbsp;публикацию каждого кадра требуют подтверждения. Названия проектов и&nbsp;заказчики намеренно не&nbsp;указаны.</p>
+        </header>
+
+        <!-- Кейс: интерьерная барная стойка (серия P01/P02/P06/P11 — один объект) -->
+        <article class="case reveal" aria-labelledby="case-bar">
+          <div class="case__grid case__grid--wide-left">
+            <figure class="case__figure">
+              <img src="../assets/processed/web/p06-bar-counter-full-view.jpg" alt="Барная стойка в интерьере: слева грубая скальная фактура фронта, справа гладкая патинированная поверхность" loading="lazy">
+            </figure>
+            <div class="case__side">
+              <figure class="case__figure"><img src="../assets/processed/web/p01-bar-counter-interior.jpg" alt="Изогнутая барная стойка с тёмной фактурной отделкой и скальным фрагментом на торце" loading="lazy"></figure>
+              <figure class="case__figure"><img src="../assets/processed/web/p11-bar-rock-end-wide.jpg" alt="Барная стойка с крупной скальной формой на торце, общий вид" loading="lazy"></figure>
+            </div>
+          </div>
+          <div class="case__caption">
+            <h3 id="case-bar">Интерьер: барная стойка</h3>
+            <p>Сочетание скального фрагмента и&nbsp;патинированной поверхности в&nbsp;одном объекте. Три ракурса одной стойки. Место и&nbsp;роль в&nbsp;проекте требуют подтверждения.</p>
+          </div>
+        </article>
+
+        <!-- Кейс: рельеф с золотыми прожилками (серия P18–P22 — один объект) -->
+        <article class="case reveal" aria-labelledby="case-relief">
+          <div class="case__grid case__grid--wide-right">
+            <div class="case__side">
+              <figure class="case__figure"><img src="../assets/processed/web/p18-relief-gold-veins-sakura.jpg" alt="Серый слоистый рельеф с золотыми прожилками в трещинах рядом с росписью сакуры" loading="lazy"></figure>
+              <figure class="case__figure"><img src="../assets/processed/web/p19-relief-gold-vein-detail.jpg" alt="Крупный план трещины в сером каменном рельефе с золотой прожилкой" loading="lazy"></figure>
+            </div>
+            <figure class="case__figure">
+              <img src="../assets/processed/web/p22-relief-gold-veins-vertical.jpg" alt="Вертикальный кадр слоистого скального рельефа с золотыми прожилками и живописной ветвью сакуры справа" loading="lazy">
+            </figure>
+          </div>
+          <div class="case__caption">
+            <h3 id="case-relief">Рельеф с&nbsp;золотыми прожилками</h3>
+            <p>Расслоённый каменный рельеф, трещины с&nbsp;золотистым заполнением, живописный фрагмент рядом. Детали одной панели.</p>
+          </div>
+        </article>
+
+        <!-- Кейс: фасадная облицовка (серия P12–P14 — один объект) -->
+        <article class="case reveal" aria-labelledby="case-facade">
+          <div class="case__grid case__grid--triple">
+            <figure class="case__figure"><img src="../assets/processed/web/p13-facade-stone-base-ornaments.jpg" alt="Каменный цоколь фасада с декоративными резными вставками и оранжевой плиткой выше" loading="lazy"></figure>
+            <figure class="case__figure"><img src="../assets/processed/web/p12-facade-stone-plaque.jpg" alt="Фрагмент каменной облицовки цоколя с декоративной плитой-орнаментом" loading="lazy"></figure>
+            <figure class="case__figure"><img src="../assets/processed/web/p14-facade-stone-corner.jpg" alt="Угол здания с каменной облицовкой цоколя из крупных блоков" loading="lazy"></figure>
+          </div>
+          <div class="case__caption">
+            <h3 id="case-facade">Фасадная каменная облицовка</h3>
+            <p>Цоколь из&nbsp;искусственных каменных блоков с&nbsp;резными декоративными вставками. Один фасад, три кадра.</p>
+          </div>
+        </article>
+
+        <!-- Кейс: декоративные поверхности (P27/P28 — один объект; P29 — отдельный объект) -->
+        <article class="case reveal" aria-labelledby="case-decor">
+          <div class="case__grid case__grid--triple">
+            <figure class="case__figure"><img src="../assets/processed/web/p27-dark-counter-showroom-angle.jpg" alt="Прямоугольная стойка с рельефной тёмной металлизированной фактурой в светлом помещении с панорамными окнами" loading="lazy"></figure>
+            <figure class="case__figure"><img src="../assets/processed/web/p28-dark-counter-showroom-front.jpg" alt="Фронтальный вид стойки с тёмной рельефной фактурой в помещении с белыми панелями" loading="lazy"></figure>
+            <figure class="case__figure"><img src="../assets/processed/web/p29-textured-art-panel-room.jpg" alt="Крупное фактурное панно голубовато-серебристого цвета с золотыми вкраплениями, прислонённое к стене" loading="lazy"></figure>
+          </div>
+          <div class="case__caption">
+            <h3 id="case-decor">Декоративные поверхности и&nbsp;объекты</h3>
+            <p>Стойка с&nbsp;рельефной «металлической» фактурой (два ракурса одного объекта) и&nbsp;фактурное панно (отдельный объект).</p>
+          </div>
+        </article>
+
+        <!-- Кейс: в мастерской / процесс (P15, P25) -->
+        <article class="case reveal" aria-labelledby="case-workshop">
+          <div class="case__grid case__grid--double">
+            <figure class="case__figure"><img src="../assets/processed/web/p15-rock-wall-panel-workshop.jpg" alt="Крупная панель с фактурой искусственной скалы на колёсной платформе в мастерской" loading="lazy"></figure>
+            <figure class="case__figure"><img src="../assets/processed/web/p25-planter-prototype.jpg" alt="Прототип кашпо в виде каменной груды с отверстием сверху на производственной площадке" loading="lazy"></figure>
+          </div>
+          <div class="case__caption">
+            <h3 id="case-workshop">В&nbsp;мастерской: процесс и&nbsp;прототипы</h3>
+            <p>Панель со&nbsp;скальной фактурой на&nbsp;стадии работы и&nbsp;прототип кашпо. Незавершённые изделия и&nbsp;рабочий процесс&nbsp;— не&nbsp;готовая продукция.</p>
+          </div>
+        </article>
+
+        <!-- Кейс: тематические скульптуры — отдельное направление -->
+        <article class="case reveal" aria-labelledby="case-themed">
+          <div class="case__grid case__grid--triple">
+            <figure class="case__figure"><img src="../assets/processed/web/p30-red-mouths-installed-park.jpg" alt="Две красные мультяшные скульптуры с разинутыми пастями в чаше фонтана в парке" loading="lazy"></figure>
+            <figure class="case__figure"><img src="../assets/processed/web/p36-red-mouths-painted.jpg" alt="Окрашенные красные скульптуры с разинутыми пастями и белыми зубами в чаше" loading="lazy"></figure>
+            <figure class="case__figure"><img src="../assets/processed/web/p41-dragon-head-primed.jpg" alt="Крупная неокрашенная голова динозавра с рельефной чешуёй в мастерской" loading="lazy"></figure>
+          </div>
+          <div class="case__caption">
+            <h3 id="case-themed">Тематические скульптуры <span class="tag">отдельное направление</span></h3>
+            <p>Скульптуры для&nbsp;парковой и&nbsp;развлекательной среды. Визуальный язык этого направления отличается от&nbsp;природно-архитектурной линии и&nbsp;показывается отдельно.</p>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <!-- ===== 4. Направления. Карточки меняются здесь ===== -->
+    <section class="section directions" id="directions" aria-labelledby="directions-title">
+      <div class="section__inner">
+        <header class="reveal">
+          <p class="eyebrow">Направления</p>
+          <h2 id="directions-title">Что делает мастерская</h2>
+        </header>
+        <ul class="directions__grid">
+          <li class="direction-card reveal">
+            <figure><img src="../assets/processed/web/p16-rock-texture-closeup.jpg" alt="Крупный план фактуры искусственного камня с трещинами и расколами" loading="lazy"></figure>
+            <h3>Скальные поверхности и&nbsp;природные фактуры</h3>
+            <p>Искусственный камень, скальные стены, имитация натуральных текстур для интерьеров и&nbsp;фасадов.</p>
+          </li>
+          <li class="direction-card reveal">
+            <figure><img src="../assets/processed/web/p21-relief-gold-gravel-vein.jpg" alt="Крупный план тёмных слоистых пластин рельефа с золотистым заполнением трещины" loading="lazy"></figure>
+            <h3>Декоративные рельефы и&nbsp;архитектурные элементы</h3>
+            <p>Фактурные панели, рельефы, декоративные поверхности и&nbsp;объекты интерьера.</p>
+          </li>
+          <li class="direction-card reveal">
+            <figure><img src="../assets/processed/web/p30-red-mouths-installed-park.jpg" alt="Красные мультяшные скульптуры в чаше фонтана в парке" loading="lazy"></figure>
+            <h3>Авторские скульптуры и&nbsp;объекты</h3>
+            <p>Скульптурные формы&nbsp;— от&nbsp;камерных объектов до&nbsp;крупных композиций. Тематические скульптуры для&nbsp;парков&nbsp;— отдельным направлением.</p>
+          </li>
+          <li class="direction-card reveal">
+            <figure><img src="../assets/processed/web/p25-planter-prototype.jpg" alt="Прототип кашпо в виде каменной груды с отверстием сверху" loading="lazy"></figure>
+            <h3>Индивидуальные объекты для&nbsp;интерьера и&nbsp;ландшафта</h3>
+            <p>Кашпо, малые формы и&nbsp;авторские изделия под конкретное пространство и&nbsp;задачу.</p>
+          </li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- ===== 5. Флагман: фонтан-колонна (КОНЦЕПТ).
+         Визуальный блок — условная CSS-графика. НЕ подставлять сюда фото P46/P43/P44/P45. ===== -->
+    <section class="section fountain" id="fountain" aria-labelledby="fountain-title">
+      <div class="section__inner fountain__grid">
+        <div class="fountain__content reveal">
+          <p class="eyebrow eyebrow--light">Флагманская разработка</p>
+          <h2 id="fountain-title">Модульная фонтан-колонна</h2>
+          <p class="status-badge">Концепция в&nbsp;разработке</p>
+          <p class="lead lead--light">Монументальная колонна с&nbsp;природной каменной фактурой и&nbsp;эффектом парения. Вода вытекает из&nbsp;трещины в&nbsp;корпусе, подсветка подчёркивает основание, туман и&nbsp;растения дополняют композицию.</p>
+
+          <div class="fountain__variants">
+            <div class="variant">
+              <h3>Стационарная версия</h3>
+              <p>Арт-бетон, постоянное основание. Предназначена для садов, парков, территорий гостиниц и&nbsp;частных домов.</p>
+            </div>
+            <div class="variant">
+              <h3>Мобильная версия</h3>
+              <p>Стеклопластик, скрытая колёсная база. Интерьеры, мероприятия, сменные локации.</p>
+            </div>
+          </div>
+
+          <ul class="fountain__features">
+            <li>Каменная фактура и&nbsp;геометрическая форма</li>
+            <li>Эффект парения над основанием</li>
+            <li>Подсветка <span class="ok-mark">проверена</span></li>
+            <li>Вода и&nbsp;туман <span class="wip-mark">в&nbsp;разработке</span></li>
+            <li>Растения <span class="wip-mark">опционально</span></li>
+          </ul>
+
+          <p class="fountain__disclaimer" role="note">Технически проверена только подсветка. Водяной контур, генерация тумана, конструкция и&nbsp;другие системы находятся на&nbsp;уровне концепции и&nbsp;требуют прототипирования. Фотографий и&nbsp;технических чертежей готового изделия пока нет.</p>
+        </div>
+
+        <figure class="fountain__visual reveal" aria-label="Условная концептуальная графика фонтан-колонны">
+          <!-- Условная концептуальная графика: только CSS. Не заменять на чужие изображения. -->
+          <div class="monolith" aria-hidden="true">
+            <div class="monolith__body"></div>
+            <div class="monolith__seam"></div>
+            <div class="monolith__base-glow"></div>
+            <div class="monolith__mist"></div>
+          </div>
+          <figcaption>Условная концептуальная графика. Не&nbsp;фотография, не&nbsp;3D-визуализация изделия и&nbsp;не&nbsp;технический чертёж.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <!-- ===== 6. Как создаётся объект. Шаги меняются здесь ===== -->
+    <section class="section process" id="process" aria-labelledby="process-title">
+      <div class="section__inner">
+        <header class="reveal">
+          <p class="eyebrow">Процесс</p>
+          <h2 id="process-title">Как создаётся объект</h2>
+          <p class="lead">Предполагаемый подход к&nbsp;работе над индивидуальным заказом.</p>
+        </header>
+        <ol class="process__steps">
+          <li class="reveal"><span class="process__num">01</span><h3>Идея и&nbsp;задача</h3><p>Разговор о&nbsp;пространстве, настроении и&nbsp;назначении объекта.</p></li>
+          <li class="reveal"><span class="process__num">02</span><h3>Форма и&nbsp;эскиз</h3><p>Поиск силуэта и&nbsp;пропорций, варианты исполнения.</p></li>
+          <li class="reveal"><span class="process__num">03</span><h3>Материал и&nbsp;фактура</h3><p>Согласование материалов, цвета и&nbsp;характера поверхности.</p></li>
+          <li class="reveal"><span class="process__num">04</span><h3>Ручное создание</h3><p>Формирование корпуса, послойная работа, ручная фактура и&nbsp;окраска.</p></li>
+          <li class="reveal"><span class="process__num">05</span><h3>Согласование результата</h3><p>Показ объекта, детали и&nbsp;финальные штрихи.</p></li>
+          <li class="reveal"><span class="process__num">06</span><h3>Доставка и&nbsp;монтаж</h3><p>При наличии соответствующей услуги; условия обсуждаются индивидуально.</p></li>
+        </ol>
+        <p class="process__note">Порядок этапов&nbsp;— предварительный; конкретные шаги, сроки и&nbsp;условия согласовываются для каждого заказа отдельно.</p>
+      </div>
+    </section>
+
+    <!-- ===== 7. Контактный блок. НЕ добавлять реальные контакты/формы. ===== -->
+    <section class="section contact" id="contact" aria-labelledby="contact-title">
+      <div class="section__inner contact__inner reveal">
+        <p class="eyebrow">Контакты</p>
+        <h2 id="contact-title">Обсудить индивидуальный объект</h2>
+        <p class="lead">Расскажите о&nbsp;пространстве и&nbsp;задаче&nbsp;— обсудим формат, фактуры и&nbsp;варианты исполнения.</p>
+        <p class="contact__placeholder">Контакты добавим после согласования</p>
+      </div>
+    </section>
+  </main>
+
+  <!-- ===== 8. Подвал ===== -->
+  <footer class="site-footer">
+    <div class="site-footer__inner">
+      <p class="wordmark wordmark--footer">BORIS<span class="wordmark__sub">авторская мастерская</span></p>
+      <p class="site-footer__note">Внутренний черновик сайта для&nbsp;обсуждения. Не&nbsp;является публичным предложением и&nbsp;не&nbsp;предназначен для&nbsp;публикации.</p>
+      <a class="to-top" href="#top">Наверх&nbsp;<span aria-hidden="true">↑</span></a>
+    </div>
+  </footer>
+
+  <!-- Лайтбокс галереи (script.js): клавиша Esc закрывает -->
+  <div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="Просмотр фотографии" hidden>
+    <button class="lightbox__close" type="button" aria-label="Закрыть">×</button>
+    <figure class="lightbox__figure">
+      <img class="lightbox__img" src="" alt="">
+      <figcaption class="lightbox__caption"></figcaption>
+    </figure>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
