@@ -1,0 +1,6 @@
+# Vercel allowlist: ignore all root-level files and directories first.
+/*
+# Keep only the root entry page, Vercel config, and the self-contained website.
+!index.html
+!vercel.json
+!site
